@@ -1,17 +1,17 @@
 
-# **Engineering One-Word Domain Names**: Daily Updated List of Available Domains
+# **engineering One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available Engineering one-word domains.
+This regularly updated dataset includes the latest available engineering one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/engineering-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **Engineering one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **engineering one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word Engineering domains.
+- **Domain Name**: High-quality, single-word engineering domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available Engineering one-wor
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain          | status    | attractiveness | demand | length | created          | expires          | registrar                                      | sectors                              |
-| --------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ---------------------------------------------- | ------------------------------------ |
-| spiral.store    | available | 112            | 96     | 6      |                  |                  |                                                | Arts,Engineering,Science             |
-| void.cloud      | available | 112            | 96     | 4      |                  |                  |                                                | Engineering,Mathematics,Technology   |
-| spiral.org      | sold      | 112            | 96     | 6      | 10/07/1997 04:00 | 09/07/2026 04:00 | Epik LLC                                       | Arts,Engineering,Science             |
-| slope.ai        | resell    | 110            | 88     | 5      | 03/03/2025 16:23 | 03/03/2027 16:23 | NameCheap, Inc.                                | Construction,Engineering,Geography   |
-| slope.xyz       | resell    | 110            | 88     | 5      | 24/04/2019 23:23 | 24/04/2027 23:59 | Dynadot LLC                                    | Construction,Engineering,Geography   |
-| slope.at        | sold      | 110            | 88     | 5      |                  |                  | InterNetX GmbH ( https://nic.at/registrar/80 ) | Construction,Engineering,Geography   |
-| slope.expert    | available | 110            | 88     | 5      |                  |                  |                                                | Construction,Engineering,Geography   |
-| skew.gg         | available | 108            | 88     | 4      |                  |                  |                                                | Engineering,Mathematics,Technology   |
-| skew.expert     | available | 108            | 88     | 4      |                  |                  |                                                | Engineering,Mathematics,Technology   |
-| composite.co    | resell    | 107            | 80     | 9      | 22/09/2011 21:07 | 21/09/2026 23:59 | Dynadot Inc                                    | Engineering,Science                  |
-| composite.space | available | 107            | 80     | 9      |                  |                  |                                                | Engineering,Science                  |
-| composite.xyz   | sold      | 107            | 80     | 9      | 28/12/2018 17:19 | 28/12/2028 23:59 | Dynadot LLC                                    | Engineering,Science                  |
-| composite.ninja | available | 107            | 80     | 9      |                  |                  |                                                | Engineering,Science                  |
-| composite.gg    | available | 107            | 80     | 9      |                  |                  |                                                | Engineering,Science                  |
-| composite.it    | resell    | 107            | 80     | 9      | 07/05/2012 11:24 | 23/05/2026 00:00 |                                                | Engineering,Science                  |
-| composite.store | available | 107            | 80     | 9      |                  |                  |                                                | Engineering,Science                  |
-| composite.so    | available | 107            | 80     | 9      |                  |                  |                                                | Engineering,Science                  |
-| invert.ai       | resell    | 103            | 80     | 6      | 11/01/2019 04:03 | 11/01/2027 04:03 | NameCheap, Inc.                                | Engineering,Science,Technology       |
-| invert.co       | expiring  | 103            | 80     | 6      | 20/07/2010 21:51 | 19/07/2025 23:59 | Tucows Domains Inc.                            | Engineering,Science,Technology       |
-| invert.cloud    | available | 103            | 80     | 6      |                  |                  |                                                | Engineering,Science,Technology       |
-| invert.me       | expiring  | 103            | 80     | 6      | 10/07/2008 03:30 | 10/07/2025 03:30 | GoDaddy.com, LLC                               | Engineering,Science,Technology       |
-| concrete.at     | sold      | 102            | 80     | 8      |                  |                  | InterNetX GmbH ( https://nic.at/registrar/80 ) | Construction,Engineering,Real Estate |
-| concrete.io     | expiring  | 102            | 80     | 8      | 22/04/2012 20:14 | 22/07/2025 00:30 | Porkbun LLC                                    | Construction,Engineering,Real Estate |
-| fourfold.io     | available | 102            | 76     | 8      |                  |                  |                                                | Business,Engineering,Mathematics     |
-| fourfold.expert | available | 102            | 76     | 8      |                  |                  |                                                | Business,Engineering,Mathematics     |
-| concrete.site   | available | 102            | 80     | 8      |                  |                  |                                                | Construction,Engineering,Real Estate |
-| fourfold.cloud  | available | 102            | 76     | 8      |                  |                  |                                                | Business,Engineering,Mathematics     |
-| fourfold.so     | available | 102            | 76     | 8      |                  |                  |                                                | Business,Engineering,Mathematics     |
-| fourfold.app    | available | 102            | 76     | 8      |                  |                  |                                                | Business,Engineering,Mathematics     |
-| fourfold.gg     | available | 102            | 76     | 8      |                  |                  |                                                | Business,Engineering,Mathematics     |
+| domain                | status    | attractiveness | demand | length | created          | expires          | registrar                                                          | sectors                           |
+| --------------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ------------------------------------------------------------------ | --------------------------------- |
+| one.engineering       | available | 132            | 44     | 3      |                  |                  |                                                                    | Business,General,Media,Technology |
+| second.engineering    | available | 120            | 23     | 6      |                  |                  |                                                                    | General,Mathematics               |
+| tenth.engineering     | available | 116            | 7      | 5      |                  |                  |                                                                    | Mathematics                       |
+| flat.engineering      | available | 116            | 24     | 4      |                  |                  |                                                                    | Construction,Real Estate          |
+| zero.engineering      | resell    | 112            | 49     | 4      | 25/07/2024 17:00 | 25/07/2026 17:00 | Sav.com, LLC - 36                                                  | Mathematics                       |
+| eight.engineering     | available | 102            | 23     | 5      |                  |                  |                                                                    | General,Mathematics               |
+| sixth.engineering     | available | 100            | 8      | 5      |                  |                  |                                                                    | Mathematics                       |
+| ninth.engineering     | available | 100            | 9      | 5      |                  |                  |                                                                    | Mathematics                       |
+| crack.engineering     | available | 100            | 20     | 5      |                  |                  |                                                                    | Sports                            |
+| third.engineering     | available | 100            | 16     | 5      |                  |                  |                                                                    | Mathematics                       |
+| eighth.engineering    | available | 100            | 6      | 6      |                  |                  |                                                                    | Mathematics                       |
+| twentieth.engineering | available | 92             | 3      | 9      |                  |                  |                                                                    | Mathematics                       |
+| nought.engineering    | available | 92             | 4      | 6      |                  |                  |                                                                    | Mathematics                       |
+| leash.engineering     | available | 90             | 7      | 5      |                  |                  |                                                                    | General,Health and Fitness,Retail |
+| twelve.engineering    | available | 88             | 18     | 6      |                  |                  |                                                                    | General,Mathematics               |
+| eleven.engineering    | available | 88             | 33     | 6      |                  |                  |                                                                    | Mathematics                       |
+| three.engineering     | resell    | 88             | 24     | 5      | 17/07/2025 15:16 | 17/07/2026 15:16 | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | Mathematics                       |
+| sixteen.engineering   | available | 88             | 11     | 7      |                  |                  |                                                                    | Mathematics                       |
+| fifteen.engineering   | available | 88             | 13     | 7      |                  |                  |                                                                    | Mathematics                       |
+| hundred.engineering   | available | 88             | 14     | 7      |                  |                  |                                                                    | Mathematics                       |
+| xiv.engineering       | available | 86             | 12     | 3      |                  |                  |                                                                    | Mathematics                       |
+| xix.engineering       | available | 86             | 11     | 3      |                  |                  |                                                                    | Mathematics                       |
+| cipher.engineering    | available | 86             | 29     | 6      |                  |                  |                                                                    | Mathematics                       |
+| fourteen.engineering  | available | 84             | 8      | 8      |                  |                  |                                                                    | Mathematics                       |
+| twentyone.engineering | available | 84             | 13     | 10     |                  |                  |                                                                    | Mathematics                       |
+| twentytwo.engineering | available | 84             | 11     | 10     |                  |                  |                                                                    | Mathematics                       |
+| thousand.engineering  | available | 84             | 8      | 8      |                  |                  |                                                                    | Mathematics                       |
+| nineteen.engineering  | available | 84             | 8      | 8      |                  |                  |                                                                    | Mathematics                       |
+| seventeen.engineering | available | 84             | 7      | 9      |                  |                  |                                                                    | Mathematics                       |
+| thirteen.engineering  | available | 84             | 10     | 8      |                  |                  |                                                                    | Mathematics                       |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/engineering-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/engineering-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
