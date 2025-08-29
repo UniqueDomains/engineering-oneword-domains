@@ -1,17 +1,17 @@
 
-# **Engineering One-Word Domain Names**: Daily Updated List of Available Domains
+# **engineering One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available Engineering one-word domains.
+This regularly updated dataset includes the latest available engineering one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/engineering-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **Engineering one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **engineering one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word Engineering domains.
+- **Domain Name**: High-quality, single-word engineering domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available Engineering one-wor
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain          | status    | attractiveness | demand | length | created          | expires          | registrar                                      | sectors                              |
-| --------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ---------------------------------------------- | ------------------------------------ |
-| spiral.store    | available | 112            | 96     | 6      |                  |                  |                                                | Arts,Engineering,Science             |
-| void.cloud      | available | 112            | 96     | 4      |                  |                  |                                                | Engineering,Mathematics,Technology   |
-| slope.ai        | resell    | 110            | 88     | 5      | 03/03/2025 16:23 | 03/03/2027 16:23 | NameCheap, Inc.                                | Construction,Engineering,Geography   |
-| slope.xyz       | resell    | 110            | 88     | 5      | 24/04/2019 23:23 | 24/04/2027 23:59 | Dynadot LLC                                    | Construction,Engineering,Geography   |
-| slope.at        | sold      | 110            | 88     | 5      |                  |                  | InterNetX GmbH ( https://nic.at/registrar/80 ) | Construction,Engineering,Geography   |
-| slope.expert    | available | 110            | 88     | 5      |                  |                  |                                                | Construction,Engineering,Geography   |
-| skew.gg         | available | 108            | 88     | 4      |                  |                  |                                                | Engineering,Mathematics,Technology   |
-| composite.co    | resell    | 107            | 80     | 9      | 22/09/2011 21:07 | 21/09/2026 23:59 | Dynadot Inc                                    | Engineering,Science                  |
-| composite.space | available | 107            | 80     | 9      |                  |                  |                                                | Engineering,Science                  |
-| composite.xyz   | sold      | 107            | 80     | 9      | 28/12/2018 17:19 | 28/12/2028 23:59 | Dynadot LLC                                    | Engineering,Science                  |
-| composite.ninja | available | 107            | 80     | 9      |                  |                  |                                                | Engineering,Science                  |
-| composite.gg    | available | 107            | 80     | 9      |                  |                  |                                                | Engineering,Science                  |
-| composite.it    | resell    | 107            | 80     | 9      | 07/05/2012 11:24 | 23/05/2026 00:00 |                                                | Engineering,Science                  |
-| invert.ai       | resell    | 103            | 80     | 6      | 11/01/2019 04:03 | 11/01/2027 04:03 | NameCheap, Inc.                                | Engineering,Science,Technology       |
-| invert.co       | expiring  | 103            | 80     | 6      | 20/07/2010 21:51 | 19/07/2025 23:59 | Tucows Domains Inc.                            | Engineering,Science,Technology       |
-| invert.cloud    | available | 103            | 80     | 6      |                  |                  |                                                | Engineering,Science,Technology       |
-| concrete.at     | sold      | 102            | 80     | 8      |                  |                  | InterNetX GmbH ( https://nic.at/registrar/80 ) | Construction,Engineering,Real Estate |
-| concrete.io     | expiring  | 102            | 80     | 8      | 22/04/2012 20:14 | 22/07/2025 00:30 | Porkbun LLC                                    | Construction,Engineering,Real Estate |
-| fourfold.io     | available | 102            | 76     | 8      |                  |                  |                                                | Business,Engineering,Mathematics     |
-| fourfold.expert | available | 102            | 76     | 8      |                  |                  |                                                | Business,Engineering,Mathematics     |
-| concrete.site   | available | 102            | 80     | 8      |                  |                  |                                                | Construction,Engineering,Real Estate |
-| fourfold.cloud  | available | 102            | 76     | 8      |                  |                  |                                                | Business,Engineering,Mathematics     |
-| fourfold.so     | available | 102            | 76     | 8      |                  |                  |                                                | Business,Engineering,Mathematics     |
-| concave.site    | available | 101            | 88     | 7      |                  |                  |                                                | Engineering,Mathematics,Science      |
-| concave.gg      | available | 101            | 88     | 7      |                  |                  |                                                | Engineering,Mathematics,Science      |
-| concave.expert  | available | 101            | 88     | 7      |                  |                  |                                                | Engineering,Mathematics,Science      |
-| concave.zone    | available | 101            | 88     | 7      |                  |                  |                                                | Engineering,Mathematics,Science      |
-| concave.cloud   | expired   | 101            | 88     | 7      | 24/06/2024 07:45 | 24/06/2025 07:45 | NAMECHEAP                                      | Engineering,Mathematics,Science      |
-| concave.store   | available | 101            | 88     | 7      |                  |                  |                                                | Engineering,Mathematics,Science      |
-| stopgap.pro     | available | 100            | 76     | 7      |                  |                  |                                                | Business,Construction,Engineering    |
+| domain                | status    | attractiveness | demand | length | created          | expires          | registrar                                                 | sectors                               |
+| --------------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | --------------------------------------------------------- | ------------------------------------- |
+| okay.engineering      | available | 146            | 28     | 4      |                  |                  |                                                           | Business,Retail                       |
+| damn.engineering      | available | 140            | 20     | 4      |                  |                  |                                                           | Entertainment,Sports                  |
+| one.engineering       | available | 132            | 43     | 3      |                  |                  |                                                           | Business,General,Media,Technology     |
+| off.engineering       | available | 128            | 22     | 3      |                  |                  |                                                           | Business,General                      |
+| away.engineering      | available | 126            | 23     | 4      |                  |                  |                                                           | Business,Media,Travel                 |
+| brief.engineering     | available | 124            | 20     | 5      |                  |                  |                                                           | Business,Education,General,Law        |
+| tough.engineering     | available | 122            | 13     | 5      |                  |                  |                                                           | Health and Fitness,Sports             |
+| heavy.engineering     | available | 122            | 22     | 5      |                  |                  |                                                           | Business,Media,Technology             |
+| second.engineering    | available | 120            | 23     | 6      |                  |                  |                                                           | General,Mathematics                   |
+| complete.engineering  | available | 120            | 21     | 8      |                  |                  |                                                           | Manufacturing,Retail,Technology       |
+| equal.engineering     | available | 116            | 18     | 5      |                  |                  |                                                           | Education,General,Law                 |
+| tenth.engineering     | available | 116            | 7      | 5      |                  |                  |                                                           | Mathematics                           |
+| flat.engineering      | available | 116            | 23     | 4      |                  |                  |                                                           | Construction,Real Estate              |
+| whatever.engineering  | available | 116            | 25     | 8      |                  |                  |                                                           | Business,Entertainment,Media          |
+| flush.engineering     | available | 114            | 12     | 5      |                  |                  |                                                           | Business,Finance,Media                |
+| tonic.engineering     | available | 114            | 22     | 5      |                  |                  |                                                           | Health and Fitness,Medicine,Science   |
+| warm.engineering      | available | 112            | 16     | 4      |                  |                  |                                                           | Hospitality,Retail                    |
+| hotshot.engineering   | available | 112            | 14     | 7      |                  |                  |                                                           | Business,Entertainment,Sports         |
+| zero.engineering      | resell    | 112            | 49     | 4      | 25/07/2024 17:00 | 25/07/2026 17:00 | Sav.com, LLC - 36                                         | Mathematics                           |
+| average.engineering   | available | 112            | 12     | 7      |                  |                  |                                                           | Mathematics                           |
+| overnight.engineering | available | 112            | 15     | 9      |                  |                  |                                                           | Hospitality,Travel                    |
+| audible.engineering   | available | 112            | 29     | 7      |                  |                  |                                                           | Entertainment,Technology              |
+| above.engineering     | available | 112            | 22     | 5      |                  |                  |                                                           | Business                              |
+| adult.engineering     | available | 110            | 23     | 5      |                  |                  |                                                           | Education,Healthcare                  |
+| bloody.engineering    | available | 110            | 11     | 6      |                  |                  |                                                           | Entertainment,Law,Media               |
+| advance.engineering   | resell    | 110            | 27     | 7      | 18/04/2025 15:15 | 18/04/2026 15:15 | Sav.com, LLC - 6                                          | Business,Education,Healthcare         |
+| only.engineering      | available | 110            | 38     | 4      |                  |                  |                                                           | Business,Media,Retail                 |
+| live.engineering      | resell    | 108            | 37     | 4      | 30/04/2025 15:15 | 30/04/2026 15:15 | Global Domains International, Inc. DBA DomainCostClub.com | Entertainment,Sports                  |
+| total.engineering     | available | 108            | 35     | 5      |                  |                  |                                                           | Finance,Mathematics                   |
+| joint.engineering     | available | 108            | 19     | 5      |                  |                  |                                                           | Construction,Healthcare,Manufacturing |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/engineering-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/engineering-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
