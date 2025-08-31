@@ -442,6 +442,17 @@ ed1426e6-577b-4462-90a9-3221a0cd9e70,consulting.me,available,72,84,10,,,
 cc2b561f-1640-4620-b0ae-c235e5079085,services.space,available,72,92,8,,,
 224a0751-cdda-4221-a952-af441532c412,services.store,available,72,92,8,,,
 e75868ea-a536-435c-a269-be3e87321d88,services.tech,available,72,92,8,,,
+c73776cb-d4ee-4d1c-a6a4-3da245e7aaa9,development.at,available,62,84,11,,,
+30d159fe-8883-447d-ba23-9679a0a6c949,development.cloud,available,62,84,11,,,
+699a6171-f03f-4fd9-a998-19fd9106c083,development.expert,expired,62,84,11,Nom-iq Ltd. dba COM LAUDE,14/05/2014 16:00,14/05/2025 16:00
+8eb7c37d-8585-462b-8672-bfaeedd13248,development.gg,resell,62,84,11,Enrapture Limited (https://enrapture.gg),,
+d5e5dc54-8128-4093-b962-e84a30680283,development.me,expiring,62,84,11,"GoDaddy.com, LLC",09/07/2008 17:03,09/07/2025 17:03
+dd18b25a-0ada-428c-9461-e04ac6440a87,development.online,available,62,84,11,,,
+37789032-6dad-4ac0-8bbd-583130c03fde,development.so,expired,62,84,11,,,
+f76b8a92-4776-4500-bcbc-65549a47efed,development.space,available,62,84,11,,,
+60096ec4-079d-4887-beac-b7e9ce6ca30d,development.store,available,62,84,11,,,
+955a09a3-32e2-49bc-9cf1-70def7ddad86,development.tech,available,62,84,11,,,
+807895dd-f09e-421c-87cd-5d44abd56ed8,development.xyz,resell,62,84,11,"Go Daddy, LLC",02/06/2014 17:02,02/06/2026 23:59
 79d47d8d-7dda-4e46-bd4d-06996e7076f6,thermal.ac,available,60,20,7,,,
 e77b0455-1db7-4c86-ab5d-6637c9939575,thermal.accountant,available,60,20,7,,,
 ab3e56b9-565e-43ef-b42f-3f8442373a3a,thermal.accountants,available,60,20,7,,,
@@ -825,17 +836,6 @@ ec18c3c4-1600-4ac0-9d72-1f442541eeac,thermal.yachts,available,60,20,7,,,
 cc638ae6-458a-4ba9-8cdf-658a1d78e7ee,thermal.yoga,available,60,20,7,,,
 bfa3f298-22a1-442f-86a4-d06e0507e08b,thermal.zip,available,60,20,7,,,
 b05267c4-d921-4069-9ce7-4d92eab6b199,thermal.zone,available,60,20,7,,,
-c73776cb-d4ee-4d1c-a6a4-3da245e7aaa9,development.at,available,62,84,11,,,
-30d159fe-8883-447d-ba23-9679a0a6c949,development.cloud,available,62,84,11,,,
-699a6171-f03f-4fd9-a998-19fd9106c083,development.expert,expired,62,84,11,Nom-iq Ltd. dba COM LAUDE,14/05/2014 16:00,14/05/2025 16:00
-8eb7c37d-8585-462b-8672-bfaeedd13248,development.gg,resell,62,84,11,Enrapture Limited (https://enrapture.gg),,
-d5e5dc54-8128-4093-b962-e84a30680283,development.me,expiring,62,84,11,"GoDaddy.com, LLC",09/07/2008 17:03,09/07/2025 17:03
-dd18b25a-0ada-428c-9461-e04ac6440a87,development.online,available,62,84,11,,,
-37789032-6dad-4ac0-8bbd-583130c03fde,development.so,expired,62,84,11,,,
-f76b8a92-4776-4500-bcbc-65549a47efed,development.space,available,62,84,11,,,
-60096ec4-079d-4887-beac-b7e9ce6ca30d,development.store,available,62,84,11,,,
-955a09a3-32e2-49bc-9cf1-70def7ddad86,development.tech,available,62,84,11,,,
-807895dd-f09e-421c-87cd-5d44abd56ed8,development.xyz,resell,62,84,11,"Go Daddy, LLC",02/06/2014 17:02,02/06/2026 23:59
 8aefb8d4-c1e6-4212-a56f-6a4a270561f9,energy.at,available,82,80,6,,,
 83175a48-699e-43ec-87ba-bb2d70437f0d,energy.co,resell,82,80,6,Hello Internet Corp.,25/02/2010 00:26,24/02/2026 23:59
 2ca09ca7-2657-4c70-85bf-fa46ecf7af7c,energy.expert,available,82,80,6,,,
@@ -856,14 +856,6 @@ fb81f97e-97f4-4fe9-8b6f-483a9f5a3798,software.site,available,64,92,8,,,
 4ec4b14a-a3ce-42d7-b62c-90fb7cc7f13e,software.space,available,64,92,8,,,
 e83bbcb2-1996-43ec-b1b8-034901d566ac,software.store,available,64,92,8,,,
 7f5c6248-989a-474f-86ee-56c5fb38d254,software.tech,available,64,92,8,,,
-510b758c-425b-49a4-b7d9-93e27572621c,vibration.at,available,62,84,9,,,
-9b30e424-5d68-41d0-ac25-0e5ebfb407fb,vibration.gg,available,62,84,9,,,
-64a24404-4548-4dd3-8f43-d26e64c8f339,vibration.io,resell,62,84,9,"GoDaddy.com, LLC",19/05/2023 17:15,19/05/2026 17:15
-67eeedae-1098-45b0-ba5f-c0c57b3a5ceb,vibration.it,resell,62,84,9,,16/05/2010 23:41,02/06/2026 00:00
-5925b179-0a3b-4359-88c9-7482c5e7fbe1,vibration.site,available,62,84,9,,,
-07cb5d34-b8df-4e15-8e53-acceb214b112,vibration.so,available,62,84,9,,,
-133ca827-a1e2-409a-b739-fccec79efabb,vibration.store,available,62,84,9,,,
-b6afb3b5-9dd4-457e-af6d-f4d7c69a55cd,vibration.zone,available,62,84,9,,,
 d837c070-bb1c-49f2-ac73-0be4e7871076,plant.expert,resell,74,88,5,Dynadot Inc,02/10/2021 17:00,02/10/2025 17:00
 e36ded0c-88b8-4180-abd5-f8491de83b08,plant.gg,available,74,88,5,,,
 066c0af4-ad73-44ae-b219-f29662c37059,plant.io,resell,74,88,5,Dynadot Inc,21/11/2010 21:37,21/11/2025 21:37
@@ -875,6 +867,30 @@ e36ded0c-88b8-4180-abd5-f8491de83b08,plant.gg,available,74,88,5,,,
 1873a72d-f24c-4b31-9772-26e908b9db87,plant.store,available,74,88,5,,,
 0bd46762-cd87-40e5-ad8a-46bcd5271688,plant.tech,available,74,88,5,,,
 5769e928-750e-4f0e-becf-e0b55ca23cbb,plant.zone,expiring,74,88,5,"Chengdu West Dimension Digital Technology Co., Ltd.",16/07/2018 08:19,16/07/2025 08:19
+510b758c-425b-49a4-b7d9-93e27572621c,vibration.at,available,62,84,9,,,
+9b30e424-5d68-41d0-ac25-0e5ebfb407fb,vibration.gg,available,62,84,9,,,
+64a24404-4548-4dd3-8f43-d26e64c8f339,vibration.io,resell,62,84,9,"GoDaddy.com, LLC",19/05/2023 17:15,19/05/2026 17:15
+67eeedae-1098-45b0-ba5f-c0c57b3a5ceb,vibration.it,resell,62,84,9,,16/05/2010 23:41,02/06/2026 00:00
+5925b179-0a3b-4359-88c9-7482c5e7fbe1,vibration.site,available,62,84,9,,,
+07cb5d34-b8df-4e15-8e53-acceb214b112,vibration.so,available,62,84,9,,,
+133ca827-a1e2-409a-b739-fccec79efabb,vibration.store,available,62,84,9,,,
+b6afb3b5-9dd4-457e-af6d-f4d7c69a55cd,vibration.zone,available,62,84,9,,,
+e1d8ad48-7a1e-4f35-91c9-355ca2242815,materials.ai,resell,44,36,9,Gandi SAS,16/12/2017 04:00,23/08/2027 04:00
+cf823778-bd8a-4db5-a51d-9bca4e784261,materials.co,expiring,44,36,9,"GoDaddy.com, LLC",21/07/2010 21:51,20/07/2025 23:59
+57e49745-886d-42ae-a3da-2f48f3f79494,materials.dev,available,44,36,9,,,
+3fd15672-dce0-4c30-b1ad-d568a0b57def,materials.gg,available,44,36,9,,,
+16c602e1-606f-4f19-bb59-2e47632f70ae,materials.it,resell,44,36,9,,19/11/2009 10:05,04/01/2026 00:00
+c3a0a38e-7fb6-4a07-913c-7f669a338cb9,materials.me,sold,44,36,9,"GoDaddy.com, LLC",18/07/2008 22:38,18/07/2026 22:38
+cde9fa83-2e2f-4244-868b-8f6427ac3fdf,materials.net,resell,44,36,9,"GoDaddy.com, LLC",06/11/1996 05:00,05/11/2027 05:00
+22010322-7ca5-4dcf-b40c-56d3fabdf075,materials.ninja,available,44,36,9,,,
+9f844c57-ff0e-4367-9f09-36cf7bf4b354,materials.online,available,44,36,9,,,
+11afef3c-fc2d-4f00-9bcc-8e7564b30819,materials.pro,resell,44,36,9,1API GmbH,13/01/2024 17:00,13/01/2026 17:00
+378180d5-3788-4655-b2f3-9012b9d0365b,materials.site,available,44,36,9,,,
+6d5cec72-c2b5-49f6-8870-61999d44f498,materials.so,available,44,36,9,,,
+87ad01f6-924f-4f30-b616-2a840648a590,materials.store,available,44,36,9,,,
+ae32b81c-c6cc-4a09-bccb-a7838d3270cd,materials.tech,available,44,36,9,,,
+4c4acbcf-77d5-4559-82b9-a1415880cc16,materials.us,resell,44,36,9,"GoDaddy.com, LLC",24/04/2002 14:25,23/04/2026 23:59
+868787ea-ca3e-40a7-bf3b-88c9b4f96de0,materials.xyz,resell,44,36,9,Dynadot LLC,30/10/2016 08:56,30/10/2029 23:59
 1d7de04e-3663-4795-92f5-a114047f4907,dynamic.ac,available,94,34,7,,,
 629a57f8-fd1b-41aa-b63c-1db03dc56cfd,dynamic.academy,resell,94,34,7,"Spaceship, Inc.",10/08/2024 17:00,10/08/2026 17:00
 6d7309fb-d2ca-4a25-9dbc-b4c460e431ac,dynamic.accountant,available,94,34,7,,,
@@ -983,19 +999,3 @@ ee9a71a7-e940-4d73-8449-25c344a60ffd,dynamic.food,available,94,34,7,,,
 5ab193c2-65ff-4c6c-b42e-1c9a0946be53,dynamic.football,available,94,34,7,,,
 662403fc-bc19-48bb-9713-11b6143df7c2,dynamic.forsale,available,94,34,7,,,
 fae9c9ca-abf0-460c-a999-7fecd359ed11,dynamic.foundation,available,94,34,7,,,
-3cda5b99-a21d-4ff5-886c-f666d20852f1,dynamic.futbol,available,94,34,7,,,
-0a5f78c5-c5ce-4895-bdf5-a1184be340c0,dynamic.gallery,available,94,34,7,,,
-8503bb70-32a5-4c54-a6e0-97cf6f63e524,dynamic.game,available,94,34,7,,,
-090759b5-8693-4acb-8199-f33b2a39735f,dynamic.games,resell,94,34,7,"Xiamen ChinaSource Internet Service Co., Ltd",30/10/2024 17:00,30/10/2025 17:00
-83cf736d-4b02-400d-bb27-3ee5965ab213,dynamic.garden,available,94,34,7,,,
-e70c724d-efd5-4a08-9a7a-f7768c712d00,dynamic.gay,available,94,34,7,,,
-73fd986b-c9a7-434f-9306-232883f8d623,dynamic.gg,resell,94,34,7,1API (http://www.1api.net),,
-1df44459-0cf7-4c42-9ec7-4ef7c0533cc6,dynamic.gift,available,94,34,7,,,
-7db7c66c-7fb2-4fea-91cf-edd67dd97600,dynamic.gives,available,94,34,7,,,
-ed76cb58-3b6c-4952-94ca-a545bd8b4199,dynamic.giving,available,94,34,7,,,
-ca05595c-5234-46b6-abfd-6ed85832dc27,dynamic.gmbh,available,94,34,7,,,
-8d888588-3efb-405e-a4c5-ffecd4bb0b2f,dynamic.gold,resell,94,34,7,"Xiamen ChinaSource Internet Service Co., Ltd",23/02/2022 17:00,23/02/2026 17:00
-e99d76ed-e43e-4aa3-a1c7-394ede94130b,dynamic.golf,resell,94,34,7,"Sav.com, LLC",21/02/2025 17:11,21/02/2026 17:11
-4c173f95-0863-4b49-9cd4-5ceffcd2f042,dynamic.gratis,available,94,34,7,,,
-bfa589c8-1ffc-4f15-a82b-caa431d8642d,dynamic.green,resell,94,34,7,"Sav.com, LLC",08/01/2025 19:01,08/01/2026 19:01
-4686c53e-acaf-436f-bd0f-6792c45b0464,dynamic.gripe,available,94,34,7,,,
