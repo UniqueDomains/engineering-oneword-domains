@@ -1,62 +1,62 @@
 
-# List of .ENGINEERING One Word Domain Names (7,756)
+# List of Engineering One Word Domain Names (22,999)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/engineering-oneword-domains.svg?style=flat)]() [![7,756 .ENGINEERING one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-7%2C756-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Engineering-oneword-domains.svg?style=flat)]() [![22,999 Engineering one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-22%2C999-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential .ENGINEERING one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential Engineering one-word domains still available to buy.
 
-This dataset contains 7,757 .ENGINEERING one word domains with availability, attractiveness and demand scores.
+This dataset contains 1,000 Engineering one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.ENGINEERING one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering-oneword-domains&utm_content=description.top) (7,756) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [Engineering one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering-oneword-domains&utm_content=description.top) (22,999) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/engineering-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/engineering-oneword-domains/blob/main/engineering.csv"><b>⬇️ CSV (7.76K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/engineering-oneword-domains/blob/main/engineering.json"><b>⬇️ JSON (7.76K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (7.76K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Engineering-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Engineering-oneword-domains/blob/main/Engineering.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Engineering-oneword-domains/blob/main/Engineering.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (23K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain                 | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| ---------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.engineering        | available | 70       | 35%    | 3      |           |         |         |
-| abactinal.engineering  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.engineering      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.engineering  | available | 58       | 7%     | 9      |           |         |         |
-| abashed.engineering    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.engineering     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.engineering   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.engineering     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.engineering    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.engineering   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.engineering  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.engineering  | available | 82       | 1%     | 9      |           |         |         |
-| abdominous.engineering | available | 56       | 1%     | 10     |           |         |         |
-| abducens.engineering   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.engineering   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.engineering  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.engineering    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.engineering | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.engineering   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.engineering    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.engineering  | available | 54       | 1%     | 9      |           |         |         |
-| abide.engineering      | available | 94       | 15%    | 5      |           |         |         |
-| abiding.engineering    | available | 106      | 5%     | 7      |           |         |         |
-| abient.engineering     | available | 54       | 1%     | 6      |           |         |         |
-| ability.engineering    | available | 92       | 15%    | 7      |           |         |         |
-| abit.engineering       | available | 66       | 12%    | 5      |           |         |         |
-| abject.engineering     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.engineering     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.engineering  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.engineering     | available | 82       | 2%     | 6      |           |         |         |
+| Domain             | Status    | Attract. | Demand | Length | Registrar                                                        | Created          | Expires          |
+| ------------------ | --------- | -------- | ------ | ------ | ---------------------------------------------------------------- | ---------------- | ---------------- |
+| engineering.app    | premium   | 74       | 84%    | 11     |                                                                  |                  |                  |
+| engineering.at     | premium   | 74       | 84%    | 11     |                                                                  |                  |                  |
+| engineering.cloud  | premium   | 74       | 84%    | 11     |                                                                  |                  |                  |
+| engineering.gg     | available | 74       | 84%    | 11     |                                                                  |                  |                  |
+| engineering.ninja  | premium   | 74       | 84%    | 11     |                                                                  |                  |                  |
+| engineering.online | premium   | 74       | 84%    | 11     |                                                                  |                  |                  |
+| engineering.pro    | premium   | 74       | 84%    | 11     |                                                                  |                  |                  |
+| engineering.site   | premium   | 74       | 84%    | 11     |                                                                  |                  |                  |
+| engineering.so     | resell    | 74       | 84%    | 11     | NameCheap                                                        | 17/06/2024 19:58 | 17/06/2026 19:58 |
+| engineering.space  | premium   | 74       | 84%    | 11     |                                                                  |                  |                  |
+| engineering.store  | premium   | 74       | 84%    | 11     |                                                                  |                  |                  |
+| engineering.tech   | premium   | 74       | 84%    | 11     |                                                                  |                  |                  |
+| engineering.us     | resell    | 74       | 84%    | 11     | Sav.com LLC                                                      | 09/07/2017 18:01 | 08/07/2026 23:59 |
+| engineering.xyz    | premium   | 74       | 84%    | 11     |                                                                  |                  |                  |
+| engineering.zone   | resell    | 74       | 84%    | 11     | Global Domains International, Inc. DBA DomainCostClub.com        | 07/01/2025 15:15 | 07/01/2026 15:15 |
+| design.academy     | resell    | 108      | 40%    | 6      | eNom, LLC                                                        | 19/03/2014 06:03 | 19/03/2026 06:03 |
+| design.accountant  | premium   | 108      | 40%    | 6      |                                                                  |                  |                  |
+| design.accountants | available | 108      | 40%    | 6      |                                                                  |                  |                  |
+| design.adult       | premium   | 108      | 40%    | 6      |                                                                  |                  |                  |
+| design.army        | premium   | 108      | 40%    | 6      |                                                                  |                  |                  |
+| design.art         | premium   | 108      | 40%    | 6      |                                                                  |                  |                  |
+| design.asia        | resell    | 108      | 40%    | 6      | Spaceship, Inc.                                                  | 22/05/2022 01:07 | 22/05/2026 01:07 |
+| design.associates  | sold      | 108      | 40%    | 6      | Dynadot Inc                                                      | 12/10/2016 17:09 | 12/10/2026 17:09 |
+| design.at          | sold      | 108      | 40%    | 6      | World4You Internet Services GmbH ( https://nic.at/registrar/61 ) |                  |                  |
+| design.attorney    | premium   | 108      | 40%    | 6      |                                                                  |                  |                  |
+| design.auction     | premium   | 108      | 40%    | 6      |                                                                  |                  |                  |
+| design.audio       | premium   | 108      | 40%    | 6      |                                                                  |                  |                  |
+| design.auto        | available | 108      | 40%    | 6      |                                                                  |                  |                  |
+| design.autos       | premium   | 108      | 40%    | 6      |                                                                  |                  |                  |
+| design.baby        | premium   | 108      | 40%    | 6      |                                                                  |                  |                  |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/engineering-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/engineering-oneword-domains/blob/main/engineering.csv"><b>⬇️ CSV (7.76K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/engineering-oneword-domains/blob/main/engineering.json"><b>⬇️ JSON (7.76K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (7.76K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Engineering-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Engineering-oneword-domains/blob/main/Engineering.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Engineering-oneword-domains/blob/main/Engineering.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (23K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -645,11 +645,11 @@ If you want to search & filters the complete database of [.ENGINEERING one word 
 | Travel             | 24,131       | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 19,321       | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/engineering-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Engineering-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering-oneword-domains&utm_content=description.image)
         
