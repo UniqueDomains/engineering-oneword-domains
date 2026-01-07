@@ -1,62 +1,62 @@
 
-# List of Engineering One Word Domain Names (24,295)
+# List of .ENGINEERING One Word Domain Names (8,721)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Engineering-oneword-domains.svg?style=flat)]() [![24,295 Engineering one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-24%2C295-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/engineering-oneword-domains.svg?style=flat)]() [![8,721 .ENGINEERING one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-8%2C721-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential Engineering one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential .ENGINEERING one-word domains still available to buy.
 
-This dataset contains 1,000 Engineering one word domains with availability, attractiveness and demand scores.
+This dataset contains 8,721 .ENGINEERING one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [Engineering one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering-oneword-domains&utm_content=description.top) (24,295) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [.ENGINEERING one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering-oneword-domains&utm_content=description.top) (8,721) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/Engineering-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/Engineering-oneword-domains/blob/main/Engineering.csv"><b>⬇️ CSV (1K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/Engineering-oneword-domains/blob/main/Engineering.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (24.3K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/engineering-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/engineering-oneword-domains/blob/main/engineering.csv"><b>⬇️ CSV (8.72K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/engineering-oneword-domains/blob/main/engineering.json"><b>⬇️ JSON (8.72K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (8.72K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain                  | Status    | Attract. | Demand | Length | Registrar                                                 | Created          | Expires          |
-| ----------------------- | --------- | -------- | ------ | ------ | --------------------------------------------------------- | ---------------- | ---------------- |
-| engineering.ac          | available | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.accountant  | available | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.accountants | available | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.actor       | available | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.adult       | available | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.ag          | expiring  | 74       | 22%    | 11     | 1API GmbH                                                 | 19/12/2024 15:59 | 19/12/2025 15:59 |
-| engineering.agency      | resell    | 74       | 22%    | 11     | GoDaddy.com, LLC                                          | 23/06/2025 20:31 | 23/06/2026 20:31 |
-| engineering.airforce    | available | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.apartments  | available | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.app         | premium   | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.archi       | available | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.associates  | premium   | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.at          | premium   | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.attorney    | premium   | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.audio       | available | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.auto        | available | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.autos       | premium   | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.baby        | available | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.band        | available | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.bar         | premium   | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.bargains    | premium   | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.bayern      | available | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.beauty      | premium   | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.berlin      | available | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.best        | resell    | 74       | 22%    | 11     | Global Domains International, Inc.                        | 12/02/2019 17:14 | 12/02/2026 23:59 |
-| engineering.bet         | available | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.bid         | resell    | 74       | 22%    | 11     | Global Domains International, Inc. DBA DomainCostClub.com | 06/09/2017 07:25 | 06/09/2028 07:25 |
-| engineering.bingo       | available | 74       | 22%    | 11     |                                                           |                  |                  |
-| engineering.biz         | resell    | 74       | 22%    | 11     | Dynadot Inc                                               | 27/03/2002 06:34 | 26/03/2026 23:59 |
-| engineering.blackfriday | available | 74       | 22%    | 11     |                                                           |                  |                  |
+| Domain                 | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
+| ---------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| aaa.engineering        | available | 70       | 34%    | 3      |           |         |         |
+| abactinal.engineering  | available | 50       | 1%     | 9      |           |         |         |
+| abaft.engineering      | available | 43       | 2%     | 5      |           |         |         |
+| abandoned.engineering  | available | 58       | 7%     | 9      |           |         |         |
+| abashed.engineering    | available | 60       | 2%     | 7      |           |         |         |
+| abasic.engineering     | available | 54       | 2%     | 6      |           |         |         |
+| abatable.engineering   | available | 54       | 1%     | 8      |           |         |         |
+| abatic.engineering     | available | 54       | 2%     | 6      |           |         |         |
+| abaxial.engineering    | available | 54       | 2%     | 7      |           |         |         |
+| abbatial.engineering   | available | 50       | 1%     | 8      |           |         |         |
+| abdicable.engineering  | available | 50       | 1%     | 9      |           |         |         |
+| abdominal.engineering  | available | 82       | 1%     | 9      |           |         |         |
+| abdominous.engineering | available | 56       | 1%     | 10     |           |         |         |
+| abducens.engineering   | available | 54       | 1%     | 8      |           |         |         |
+| abducent.engineering   | available | 68       | 1%     | 8      |           |         |         |
+| abducting.engineering  | available | 50       | 1%     | 9      |           |         |         |
+| abenaki.engineering    | available | 82       | 3%     | 7      |           |         |         |
+| aberdonian.engineering | available | 68       | 1%     | 10     |           |         |         |
+| aberrant.engineering   | available | 74       | 7%     | 8      |           |         |         |
+| abeyant.engineering    | available | 56       | 2%     | 7      |           |         |         |
+| abhorrent.engineering  | available | 54       | 1%     | 9      |           |         |         |
+| abide.engineering      | available | 94       | 15%    | 5      |           |         |         |
+| abiding.engineering    | available | 106      | 5%     | 7      |           |         |         |
+| abient.engineering     | available | 54       | 1%     | 6      |           |         |         |
+| ability.engineering    | available | 92       | 14%    | 7      |           |         |         |
+| abit.engineering       | available | 66       | 12%    | 5      |           |         |         |
+| abject.engineering     | available | 94       | 8%     | 6      |           |         |         |
+| abkhas.engineering     | available | 68       | 1%     | 6      |           |         |         |
+| abkhasian.engineering  | available | 78       | 1%     | 9      |           |         |         |
+| abkhaz.engineering     | available | 82       | 2%     | 6      |           |         |         |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/Engineering-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/Engineering-oneword-domains/blob/main/Engineering.csv"><b>⬇️ CSV (1K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/Engineering-oneword-domains/blob/main/Engineering.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (24.3K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/engineering-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/engineering-oneword-domains/blob/main/engineering.csv"><b>⬇️ CSV (8.72K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/engineering-oneword-domains/blob/main/engineering.json"><b>⬇️ JSON (8.72K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (8.72K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -88,9 +88,8 @@ If you want to search & filters the complete database of [Engineering one word d
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,947       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 65,048       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,877    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,942       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 65,055       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
@@ -189,7 +188,7 @@ If you want to search & filters the complete database of [Engineering one word d
 | .CN            | 0            | [Github](https://github.com/UniqueDomains/cn-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=cn-oneword-domains&utm_content=table.link)            |
 | .CO.COM        | 0            | [Github](https://github.com/UniqueDomains/co.com-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=co.com-oneword-domains&utm_content=table.link)        |
 | .CO.UK         | 0            | [Github](https://github.com/UniqueDomains/co.uk-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=co.uk-oneword-domains&utm_content=table.link)         |
-| .CO            | 49,853       | [Github](https://github.com/UniqueDomains/co-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=co-oneword-domains&utm_content=table.link)            |
+| .CO            | 49,854       | [Github](https://github.com/UniqueDomains/co-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=co-oneword-domains&utm_content=table.link)            |
 | .COACH         | 8,444        | [Github](https://github.com/UniqueDomains/coach-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=coach-oneword-domains&utm_content=table.link)         |
 | .CODES         | 8,421        | [Github](https://github.com/UniqueDomains/codes-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=codes-oneword-domains&utm_content=table.link)         |
 | .COFFEE        | 8,006        | [Github](https://github.com/UniqueDomains/coffee-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=coffee-oneword-domains&utm_content=table.link)        |
@@ -223,7 +222,7 @@ If you want to search & filters the complete database of [Engineering one word d
 | .DATING        | 9,317        | [Github](https://github.com/UniqueDomains/dating-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=dating-oneword-domains&utm_content=table.link)        |
 | .DAY           | 9,317        | [Github](https://github.com/UniqueDomains/day-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=day-oneword-domains&utm_content=table.link)           |
 | .DE.COM        | 0            | [Github](https://github.com/UniqueDomains/de.com-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=de.com-oneword-domains&utm_content=table.link)        |
-| .DE            | 2,840        | [Github](https://github.com/UniqueDomains/de-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=de-oneword-domains&utm_content=table.link)            |
+| .DE            | 2,839        | [Github](https://github.com/UniqueDomains/de-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=de-oneword-domains&utm_content=table.link)            |
 | .DEAL          | 7,532        | [Github](https://github.com/UniqueDomains/deal-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=deal-oneword-domains&utm_content=table.link)          |
 | .DEALER        | 9,917        | [Github](https://github.com/UniqueDomains/dealer-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=dealer-oneword-domains&utm_content=table.link)        |
 | .DEALS         | 8,900        | [Github](https://github.com/UniqueDomains/deals-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=deals-oneword-domains&utm_content=table.link)         |
@@ -355,9 +354,9 @@ If you want to search & filters the complete database of [Engineering one word d
 | .INSURE        | 9,282        | [Github](https://github.com/UniqueDomains/insure-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=insure-oneword-domains&utm_content=table.link)        |
 | .INTERNATIONAL | 8,309        | [Github](https://github.com/UniqueDomains/international-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=international-oneword-domains&utm_content=table.link) |
 | .INVESTMENTS   | 9,334        | [Github](https://github.com/UniqueDomains/investments-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=investments-oneword-domains&utm_content=table.link)   |
-| .IO            | 54,617       | [Github](https://github.com/UniqueDomains/io-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=io-oneword-domains&utm_content=table.link)            |
+| .IO            | 54,616       | [Github](https://github.com/UniqueDomains/io-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=io-oneword-domains&utm_content=table.link)            |
 | .IRISH         | 9,351        | [Github](https://github.com/UniqueDomains/irish-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=irish-oneword-domains&utm_content=table.link)         |
-| .IT            | 13,790       | [Github](https://github.com/UniqueDomains/it-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=it-oneword-domains&utm_content=table.link)            |
+| .IT            | 13,791       | [Github](https://github.com/UniqueDomains/it-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=it-oneword-domains&utm_content=table.link)            |
 | .JETZT         | 9,413        | [Github](https://github.com/UniqueDomains/jetzt-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=jetzt-oneword-domains&utm_content=table.link)         |
 | .JEWELRY       | 9,570        | [Github](https://github.com/UniqueDomains/jewelry-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=jewelry-oneword-domains&utm_content=table.link)       |
 | .JPN.COM       | 0            | [Github](https://github.com/UniqueDomains/jpn.com-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=jpn.com-oneword-domains&utm_content=table.link)       |
@@ -367,7 +366,7 @@ If you want to search & filters the complete database of [Engineering one word d
 | .KIM           | 9,314        | [Github](https://github.com/UniqueDomains/kim-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kim-oneword-domains&utm_content=table.link)           |
 | .KITCHEN       | 9,140        | [Github](https://github.com/UniqueDomains/kitchen-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kitchen-oneword-domains&utm_content=table.link)       |
 | .KIWI          | 0            | [Github](https://github.com/UniqueDomains/kiwi-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kiwi-oneword-domains&utm_content=table.link)          |
-| .LA            | 7,905        | [Github](https://github.com/UniqueDomains/la-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=la-oneword-domains&utm_content=table.link)            |
+| .LA            | 7,908        | [Github](https://github.com/UniqueDomains/la-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=la-oneword-domains&utm_content=table.link)            |
 | .LAND          | 8,107        | [Github](https://github.com/UniqueDomains/land-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=land-oneword-domains&utm_content=table.link)          |
 | .LAT           | 8,298        | [Github](https://github.com/UniqueDomains/lat-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=lat-oneword-domains&utm_content=table.link)           |
 | .LAW           | 8,650        | [Github](https://github.com/UniqueDomains/law-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=law-oneword-domains&utm_content=table.link)           |
@@ -401,7 +400,7 @@ If you want to search & filters the complete database of [Engineering one word d
 | .MARKETING     | 8,144        | [Github](https://github.com/UniqueDomains/marketing-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=marketing-oneword-domains&utm_content=table.link)     |
 | .MARKETS       | 2            | [Github](https://github.com/UniqueDomains/markets-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=markets-oneword-domains&utm_content=table.link)       |
 | .MBA           | 9,369        | [Github](https://github.com/UniqueDomains/mba-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mba-oneword-domains&utm_content=table.link)           |
-| .ME            | 59,522       | [Github](https://github.com/UniqueDomains/me-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=me-oneword-domains&utm_content=table.link)            |
+| .ME            | 59,523       | [Github](https://github.com/UniqueDomains/me-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=me-oneword-domains&utm_content=table.link)            |
 | .MEDIA         | 7,038        | [Github](https://github.com/UniqueDomains/media-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=media-oneword-domains&utm_content=table.link)         |
 | .MELBOURNE     | 9,688        | [Github](https://github.com/UniqueDomains/melbourne-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=melbourne-oneword-domains&utm_content=table.link)     |
 | .MEME          | 9,603        | [Github](https://github.com/UniqueDomains/meme-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=meme-oneword-domains&utm_content=table.link)          |
@@ -421,7 +420,7 @@ If you want to search & filters the complete database of [Engineering one word d
 | .MOV           | 9,820        | [Github](https://github.com/UniqueDomains/mov-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mov-oneword-domains&utm_content=table.link)           |
 | .MOVIE         | 9,546        | [Github](https://github.com/UniqueDomains/movie-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=movie-oneword-domains&utm_content=table.link)         |
 | .MUSIC         | 9,584        | [Github](https://github.com/UniqueDomains/music-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=music-oneword-domains&utm_content=table.link)         |
-| .MX            | 7,246        | [Github](https://github.com/UniqueDomains/mx-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mx-oneword-domains&utm_content=table.link)            |
+| .MX            | 7,247        | [Github](https://github.com/UniqueDomains/mx-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mx-oneword-domains&utm_content=table.link)            |
 | .MY            | 7,525        | [Github](https://github.com/UniqueDomains/my-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=my-oneword-domains&utm_content=table.link)            |
 | .NAGOYA        | 13           | [Github](https://github.com/UniqueDomains/nagoya-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=nagoya-oneword-domains&utm_content=table.link)        |
 | .NAME          | 8,084        | [Github](https://github.com/UniqueDomains/name-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=name-oneword-domains&utm_content=table.link)          |
@@ -515,7 +514,7 @@ If you want to search & filters the complete database of [Engineering one word d
 | .SERVICES      | 7,489        | [Github](https://github.com/UniqueDomains/services-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=services-oneword-domains&utm_content=table.link)      |
 | .SEX           | 0            | [Github](https://github.com/UniqueDomains/sex-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=sex-oneword-domains&utm_content=table.link)           |
 | .SEXY          | 9,733        | [Github](https://github.com/UniqueDomains/sexy-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=sexy-oneword-domains&utm_content=table.link)          |
-| .SH            | 7,649        | [Github](https://github.com/UniqueDomains/sh-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=sh-oneword-domains&utm_content=table.link)            |
+| .SH            | 7,646        | [Github](https://github.com/UniqueDomains/sh-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=sh-oneword-domains&utm_content=table.link)            |
 | .SHIKSHA       | 9,868        | [Github](https://github.com/UniqueDomains/shiksha-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=shiksha-oneword-domains&utm_content=table.link)       |
 | .SHOES         | 9,492        | [Github](https://github.com/UniqueDomains/shoes-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=shoes-oneword-domains&utm_content=table.link)         |
 | .SHOP          | 463          | [Github](https://github.com/UniqueDomains/shop-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=shop-oneword-domains&utm_content=table.link)          |
@@ -584,7 +583,7 @@ If you want to search & filters the complete database of [Engineering one word d
 | .UNIVERSITY    | 9,092        | [Github](https://github.com/UniqueDomains/university-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=university-oneword-domains&utm_content=table.link)    |
 | .UNO           | 9,573        | [Github](https://github.com/UniqueDomains/uno-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=uno-oneword-domains&utm_content=table.link)           |
 | .US.COM        | 0            | [Github](https://github.com/UniqueDomains/us.com-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=us.com-oneword-domains&utm_content=table.link)        |
-| .US            | 55,596       | [Github](https://github.com/UniqueDomains/us-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=us-oneword-domains&utm_content=table.link)            |
+| .US            | 55,593       | [Github](https://github.com/UniqueDomains/us-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=us-oneword-domains&utm_content=table.link)            |
 | .VACATIONS     | 9,622        | [Github](https://github.com/UniqueDomains/vacations-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=vacations-oneword-domains&utm_content=table.link)     |
 | .VANA          | 9,943        | [Github](https://github.com/UniqueDomains/vana-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=vana-oneword-domains&utm_content=table.link)          |
 | .VC            | 7,237        | [Github](https://github.com/UniqueDomains/vc-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=vc-oneword-domains&utm_content=table.link)            |
@@ -637,7 +636,7 @@ If you want to search & filters the complete database of [Engineering one word d
 | Business           | 23,576       | [Github](https://github.com/UniqueDomains/Business-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Business-oneword-domains&utm_content=table.link)               |
 | Construction       | 25,701       | [Github](https://github.com/UniqueDomains/Construction-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Construction-oneword-domains&utm_content=table.link)           |
 | Education          | 19,262       | [Github](https://github.com/UniqueDomains/Education-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Education-oneword-domains&utm_content=table.link)              |
-| Energy             | 18,858       | [Github](https://github.com/UniqueDomains/Energy-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Energy-oneword-domains&utm_content=table.link)                 |
+| Energy             | 18,859       | [Github](https://github.com/UniqueDomains/Energy-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Energy-oneword-domains&utm_content=table.link)                 |
 | Engineering        | 24,295       | [Github](https://github.com/UniqueDomains/Engineering-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Engineering-oneword-domains&utm_content=table.link)            |
 | Entertainment      | 18,903       | [Github](https://github.com/UniqueDomains/Entertainment-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Entertainment-oneword-domains&utm_content=table.link)          |
 | Environment        | 23,544       | [Github](https://github.com/UniqueDomains/Environment-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Environment-oneword-domains&utm_content=table.link)            |
@@ -649,7 +648,7 @@ If you want to search & filters the complete database of [Engineering one word d
 | Health and Fitness | 26,333       | [Github](https://github.com/UniqueDomains/Health%20and%20Fitness-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Health%20and%20Fitness-oneword-domains&utm_content=table.link) |
 | Healthcare         | 25,974       | [Github](https://github.com/UniqueDomains/Healthcare-oneword-domains)             | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Healthcare-oneword-domains&utm_content=table.link)             |
 | Hospitality        | 28,535       | [Github](https://github.com/UniqueDomains/Hospitality-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Hospitality-oneword-domains&utm_content=table.link)            |
-| Humanities         | 15,004       | [Github](https://github.com/UniqueDomains/Humanities-oneword-domains)             | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Humanities-oneword-domains&utm_content=table.link)             |
+| Humanities         | 15,006       | [Github](https://github.com/UniqueDomains/Humanities-oneword-domains)             | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Humanities-oneword-domains&utm_content=table.link)             |
 | Insurance          | 22,374       | [Github](https://github.com/UniqueDomains/Insurance-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Insurance-oneword-domains&utm_content=table.link)              |
 | Law                | 23,970       | [Github](https://github.com/UniqueDomains/Law-oneword-domains)                    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Law-oneword-domains&utm_content=table.link)                    |
 | Manufacturing      | 25,528       | [Github](https://github.com/UniqueDomains/Manufacturing-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Manufacturing-oneword-domains&utm_content=table.link)          |
@@ -657,7 +656,7 @@ If you want to search & filters the complete database of [Engineering one word d
 | Media              | 24,212       | [Github](https://github.com/UniqueDomains/Media-oneword-domains)                  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Media-oneword-domains&utm_content=table.link)                  |
 | Medicine           | 17,294       | [Github](https://github.com/UniqueDomains/Medicine-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Medicine-oneword-domains&utm_content=table.link)               |
 | Military           | 19,381       | [Github](https://github.com/UniqueDomains/Military-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Military-oneword-domains&utm_content=table.link)               |
-| Mining             | 15,514       | [Github](https://github.com/UniqueDomains/Mining-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Mining-oneword-domains&utm_content=table.link)                 |
+| Mining             | 15,515       | [Github](https://github.com/UniqueDomains/Mining-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Mining-oneword-domains&utm_content=table.link)                 |
 | Pharmaceuticals    | 10,449       | [Github](https://github.com/UniqueDomains/Pharmaceuticals-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Pharmaceuticals-oneword-domains&utm_content=table.link)        |
 | Politics           | 40,136       | [Github](https://github.com/UniqueDomains/Politics-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Politics-oneword-domains&utm_content=table.link)               |
 | Real Estate        | 20,747       | [Github](https://github.com/UniqueDomains/Real%20Estate-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Real%20Estate-oneword-domains&utm_content=table.link)          |
@@ -671,11 +670,11 @@ If you want to search & filters the complete database of [Engineering one word d
 | Travel             | 24,290       | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 19,860       | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Engineering-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/engineering-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering-oneword-domains&utm_content=description.image)
         
