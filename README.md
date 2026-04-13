@@ -79,7 +79,7 @@ print(df.head())
 | aaa.engineering     | available | $85.98    | —             | 70             | 42     | 3      | namecheap         |
 | sky.engineering     | resell    | —         | —             | 80             | 53     | 3      | Sav.com, LLC - 26 |
 | hotel.engineering   | premium   | $260      | $260          | 70             | 45     | 5      | namecheap         |
-| order.engineering   | available | $11.99    | $86.99        | 78             | 41     | 5      | name.com          |
+| order.engineering   | available | $11.99    | $86.99        | 78             | 40     | 5      | name.com          |
 | global.engineering  | resell    | —         | —             | 86             | 51     | 6      | Porkbun LLC       |
 | map.engineering     | premium   | $128.70   | $128.70       | 78             | 42     | 3      | namecheap         |
 | unity.engineering   | available | $11.99    | $86.99        | 70             | 40     | 5      | name.com          |
