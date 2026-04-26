@@ -1,22 +1,22 @@
-# Available .ENGINEERING One-Word Domains (8,759)
+# Available .ENGINEERING One-Word Domains (11,105)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C758%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C759%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C105%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .engineering one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,758-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,759 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,105 domains** on the canonical page below.
 
-**Public extract:** 8,758 rows · **Live catalog:** 8,759 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,105 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/engineering`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .ENGINEERING one-word 
 
 ### Files
 
-- `engineering.csv` — public CSV extract (8,758 rows)
-- `engineering.json` — public JSON extract (8,758 rows)
+- `engineering.csv` — public CSV extract (1,000 rows)
+- `engineering.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| bridge.engineering  | available | $11.99    | —             | 68             | 47     | 6      | name.com          |
-| space.engineering   | resell    | —         | —             | 80             | 61     | 5      | GoDaddy.com, LLC  |
-| power.engineering   | premium   | $520      | $520          | 98             | 62     | 5      | namecheap         |
-| creator.engineering | available | $11.99    | $86.99        | 70             | 45     | 7      | name.com          |
-| web.engineering     | resell    | —         | —             | 72             | 61     | 3      | Porkbun LLC       |
-| one.engineering     | premium   | $250      | $250          | 132            | 50     | 3      | name.com          |
-| nice.engineering    | available | $11.99    | $86.99        | 86             | 44     | 4      | name.com          |
-| shop.engineering    | resell    | —         | —             | 78             | 54     | 4      | Porkbun LLC       |
-| gold.engineering    | premium   | $260      | $260          | 72             | 48     | 4      | namecheap         |
-| bad.engineering     | available | $11.99    | —             | 82             | 44     | 3      | name.com          |
-| zero.engineering    | resell    | —         | —             | 112            | 53     | 4      | Sav.com, LLC      |
-| only.engineering    | premium   | $500      | $500          | 110            | 46     | 4      | name.com          |
-| aaa.engineering     | available | $85.98    | —             | 70             | 42     | 3      | namecheap         |
-| sky.engineering     | resell    | —         | —             | 80             | 53     | 3      | Sav.com, LLC - 26 |
-| hotel.engineering   | premium   | $260      | $260          | 70             | 45     | 5      | namecheap         |
-| order.engineering   | available | $11.99    | $86.99        | 78             | 40     | 5      | name.com          |
-| global.engineering  | resell    | —         | —             | 86             | 51     | 6      | Porkbun LLC       |
-| map.engineering     | premium   | $128.70   | $128.70       | 78             | 42     | 3      | namecheap         |
-| unity.engineering   | available | $11.99    | $86.99        | 70             | 40     | 5      | name.com          |
-| info.engineering    | resell    | —         | —             | 80             | 51     | 4      | Sav.com, LLC      |
+| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| coins.engineering       | available | $11.99    | —             | 56             | 41     | 5      | name.com          |
+| global.engineering      | resell    | —         | —             | 86             | 51     | 6      | Porkbun LLC       |
+| events.engineering      | premium   | $123.75   | —             | 68             | 37     | 6      | name.com          |
+| matcha.engineering      | available | $11.99    | —             | 86             | 39     | 6      | name.com          |
+| earth.engineering       | resell    | —         | —             | 66             | 42     | 5      | Sav.com, LLC - 18 |
+| tickets.engineering     | premium   | $118.80   | $118.80       | 64             | 34     | 7      | namesilo          |
+| aliens.engineering      | available | $11.99    | —             | 56             | 35     | 6      | name.com          |
+| payment.engineering     | resell    | —         | —             | 78             | 37     | 7      | GoDaddy.com, LLC  |
+| partners.engineering    | premium   | $123.75   | —             | 61             | 32     | 8      | name.com          |
+| teams.engineering       | available | $11.99    | —             | 62             | 32     | 5      | name.com          |
+| schools.engineering     | premium   | $123.75   | —             | 72             | 24     | 7      | name.com          |
+| William.engineering     | available | $85.98    | —             | 74             | 31     | 7      | namecheap         |
+| loans.engineering       | premium   | $118.80   | $118.80       | 58             | 24     | 5      | namesilo          |
+| letsgo.engineering      | available | $11.99    | —             | 57             | 31     | 7      | name.com          |
+| machines.engineering    | premium   | $82.50    | —             | 56             | 22     | 8      | name.com          |
+| inspiration.engineering | available | $11.99    | —             | 88             | 30     | 11     | name.com          |
+| apartments.engineering  | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo          |
+| videos.engineering      | available | $11.99    | —             | 52             | 30     | 6      | name.com          |
+| mathematics.engineering | premium   | $82.50    | —             | 68             | 19     | 11     | name.com          |
+| heroes.engineering      | available | $11.99    | —             | 68             | 29     | 6      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,758-row public sample | 8,759 live domains                               |
+| 1,000-row public sample | 11,105 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ENGINEERING One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ENGINEERING One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
