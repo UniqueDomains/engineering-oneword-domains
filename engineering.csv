@@ -853,7 +853,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4d9af05e-beb9-4307-b213-2bba74eaae29,pls.engineering,available,11.99,,60,23,3,name.com,,
 4da3e9a1-547a-4294-ab75-8cce19d3077b,troublefree.engineering,available,11.99,,66,6,12,name.com,,
 4dbbd96e-8cd9-4d78-9f58-2a42b7163b6e,ibanking.engineering,available,11.99,,76,7,9,name.com,,
-4dbbe5cf-7c6e-4c19-81c3-f067840cecef,payment.engineering,resell,,,78,37,7,"GoDaddy.com, LLC",22/07/2023 19:38,22/07/2026 19:38
+4dbbe5cf-7c6e-4c19-81c3-f067840cecef,payment.engineering,resell,,,78,36,7,"GoDaddy.com, LLC",22/07/2023 19:38,22/07/2026 19:38
 4dc5bf3b-208e-4d4d-81ca-48290289c389,sitaround.engineering,available,11.99,,66,1,10,name.com,,
 4dca851b-dcf0-4c20-9b6e-58ff919b085a,musts.engineering,available,11.99,,57,2,5,name.com,,
 4dd3032f-abcf-4e08-821b-ecabfc01e444,neighbors.engineering,available,11.99,,63,17,9,name.com,,
