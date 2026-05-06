@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
-title: "Available .ENGINEERING One-Word Domains"
+title: "Engineering Keyword Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
 version: "2026-05-06"
 date-released: "2026-05-06"
-url: "https://unique.domains/domains/tld/engineering"
+url: "https://unique.domains/domains/Engineering?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*engineering"
 repository-code: "https://github.com/UniqueDomains/engineering-oneword-domains"
 license: "See LICENSE"
-abstract: "Daily-updated public extract of available and resale .engineering one-word domains from Unique Domains."
+abstract: "Daily-updated public extract of engineering one-word domains from Unique Domains."
