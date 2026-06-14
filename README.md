@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .engineering one-word domai
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,703 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,703 domains · **Median ask:** $20.17 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,703 domains · **Median ask:** $18.99 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/engineering`  
+**Last updated:** 2026-06-14
+**Canonical page:** `https://unique.domains/domains/tld/engineering`
 **Best for:** founders, investors, studios
 
 ---
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| jewels.engineering   | available | $11.99    | —             | 80             | 15     | 6      | name.com          |
-| matcha.engineering   | available | $11.99    | —             | 86             | 39     | 6      | name.com          |
-| Apples.engineering   | available | $85.98    | —             | 90             | 16     | 6      | namecheap         |
-| playin.engineering   | available | $11.99    | —             | 80             | 10     | 7      | name.com          |
-| QandA.engineering    | available | $85.98    | —             | 80             | 10     | 7      | namecheap         |
-| makeit.engineering   | available | $11.99    | —             | 82             | 21     | 7      | name.com          |
-| pierogi.engineering  | available | $11.99    | —             | 82             | 7      | 7      | name.com          |
-| dogsick.engineering  | available | $11.99    | —             | 90             | 1      | 7      | name.com          |
-| messages.engineering | available | $11.99    | —             | 80             | 16     | 8      | name.com          |
-| presents.engineering | available | $11.99    | —             | 80             | 9      | 8      | name.com          |
-| coins.engineering    | available | $11.99    | —             | 56             | 41     | 5      | name.com          |
-| global.engineering   | resell    | —         | —             | 86             | 52     | 6      | Porkbun LLC       |
-| events.engineering   | premium   | $123.75   | —             | 68             | 37     | 6      | name.com          |
-| earth.engineering    | resell    | —         | —             | 66             | 42     | 5      | Sav.com, LLC - 18 |
-| tickets.engineering  | premium   | $118.80   | $118.80       | 64             | 34     | 7      | namesilo          |
-| aliens.engineering   | available | $11.99    | —             | 56             | 35     | 6      | name.com          |
-| payment.engineering  | resell    | —         | —             | 78             | 36     | 7      | GoDaddy.com, LLC  |
-| partners.engineering | premium   | $123.75   | —             | 61             | 31     | 8      | name.com          |
-| teams.engineering    | available | $11.99    | —             | 62             | 32     | 5      | name.com          |
-| schools.engineering  | premium   | $123.75   | —             | 72             | 24     | 7      | name.com          |
+| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| experiment.engineering  | available | $11.99    | —             | 94             | 18     | 10     | name.com     |
+| bargain.engineering     | available | $11.99    | —             | 98             | 16     | 7      | name.com     |
+| AOL.engineering         | premium   | —         | —             | 86             | 17     | 3      | —            |
+| gummyworm.engineering   | available | $11.99    | —             | 83             | 1      | 10     | name.com     |
+| outback.engineering     | available | $11.99    | —             | 114            | 17     | 7      | name.com     |
+| above.engineering       | available | $11.99    | $86.99        | 112            | 25     | 5      | name.com     |
+| report.engineering      | premium   | $118.80   | $118.80       | 98             | 30     | 6      | namesilo     |
+| impression.engineering  | available | $11.99    | —             | 96             | 15     | 10     | name.com     |
+| zero.engineering        | resell    | —         | —             | 112            | 53     | 4      | Sav.com, LLC |
+| awkward.engineering     | available | $11.99    | —             | 94             | 12     | 7      | name.com     |
+| saucer.engineering      | available | $11.99    | —             | 96             | 8      | 6      | name.com     |
+| married.engineering     | available | $11.99    | —             | 90             | 10     | 7      | name.com     |
+| one.engineering         | premium   | $250      | $250          | 132            | 50     | 3      | name.com     |
+| enjoy.engineering       | premium   | —         | —             | 88             | 20     | 5      | —            |
+| nought.engineering      | available | $11.99    | $86.99        | 92             | 6      | 6      | name.com     |
+| tenth.engineering       | available | $11.99    | $86.99        | 116            | 8      | 5      | name.com     |
+| bestwishes.engineering  | available | $11.99    | —             | 84             | 8      | 11     | name.com     |
+| modem.engineering       | available | $11.99    | —             | 102            | 16     | 5      | name.com     |
+| encouraging.engineering | available | $11.99    | —             | 88             | 5      | 11     | name.com     |
+| neutral.engineering     | available | $11.99    | $86.99        | 92             | 22     | 7      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ENGINEERING One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ENGINEERING One-Word Domains*. Version 2026-06-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
