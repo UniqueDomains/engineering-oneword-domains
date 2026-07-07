@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .engineering one-word domai
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,703 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,703 domains · **Median ask:** $18.99 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,703 domains · **Median ask:** $18.92 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-14
+**Last updated:** 2026-07-07
 **Canonical page:** `https://unique.domains/domains/tld/engineering`
 **Best for:** founders, investors, studios
 
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ENGINEERING one-word 
 
 ### Files
 
-- `engineering.csv` — public CSV extract (1,000 rows)
-- `engineering.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `engineering.csv`, public CSV extract (1,000 rows)
+- `engineering.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| experiment.engineering  | available | $11.99    | —             | 94             | 18     | 10     | name.com     |
-| bargain.engineering     | available | $11.99    | —             | 98             | 16     | 7      | name.com     |
-| AOL.engineering         | premium   | —         | —             | 86             | 17     | 3      | —            |
-| gummyworm.engineering   | available | $11.99    | —             | 83             | 1      | 10     | name.com     |
-| outback.engineering     | available | $11.99    | —             | 114            | 17     | 7      | name.com     |
-| above.engineering       | available | $11.99    | $86.99        | 112            | 25     | 5      | name.com     |
-| report.engineering      | premium   | $118.80   | $118.80       | 98             | 30     | 6      | namesilo     |
-| impression.engineering  | available | $11.99    | —             | 96             | 15     | 10     | name.com     |
-| zero.engineering        | resell    | —         | —             | 112            | 53     | 4      | Sav.com, LLC |
-| awkward.engineering     | available | $11.99    | —             | 94             | 12     | 7      | name.com     |
-| saucer.engineering      | available | $11.99    | —             | 96             | 8      | 6      | name.com     |
-| married.engineering     | available | $11.99    | —             | 90             | 10     | 7      | name.com     |
-| one.engineering         | premium   | $250      | $250          | 132            | 50     | 3      | name.com     |
-| enjoy.engineering       | premium   | —         | —             | 88             | 20     | 5      | —            |
-| nought.engineering      | available | $11.99    | $86.99        | 92             | 6      | 6      | name.com     |
-| tenth.engineering       | available | $11.99    | $86.99        | 116            | 8      | 5      | name.com     |
-| bestwishes.engineering  | available | $11.99    | —             | 84             | 8      | 11     | name.com     |
-| modem.engineering       | available | $11.99    | —             | 102            | 16     | 5      | name.com     |
-| encouraging.engineering | available | $11.99    | —             | 88             | 5      | 11     | name.com     |
-| neutral.engineering     | available | $11.99    | $86.99        | 92             | 22     | 7      | name.com     |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| one.engineering     | premium   | $250      | $250          | high           | medium | 3      | name.com         |
+| hello.engineering   | available | —         | —             | high           | low    | 5      | —                |
+| bang.engineering    | available | —         | —             | high           | low    | 4      | —                |
+| cut.engineering     | available | $11.99    | $86.99        | high           | low    | 3      | name.com         |
+| perfect.engineering | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo         |
+| attack.engineering  | available | $11.99    | —             | high           | low    | 6      | name.com         |
+| YouTube.engineering | available | —         | —             | high           | medium | 7      | —                |
+| ale.engineering     | available | $11.99    | —             | medium         | low    | 3      | name.com         |
+| odd.engineering     | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC     |
+| man.engineering     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| bud.engineering     | available | $11.99    | —             | high           | low    | 3      | name.com         |
+| zero.engineering    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC     |
+| men.engineering     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| cod.engineering     | available | $11.99    | —             | high           | low    | 3      | name.com         |
+| shift.engineering   | resell    | —         | —             | high           | medium | 5      | Dynadot Inc      |
+| cow.engineering     | available | $11.99    | —             | high           | low    | 3      | name.com         |
+| leader.engineering  | resell    | —         | —             | high           | low    | 6      | NameSilo, LLC    |
+| asia.engineering    | premium   | $500      | —             | high           | low    | 4      | name.com         |
+| advance.engineering | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 6 |
+| math.engineering    | premium   | $123.75   | —             | high           | medium | 4      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .engineering domains. That makes the extension itself part of the message: technical, specialist, and profession-led. Terms such as Acup.engineering, Trex.engineering, forces.engineering, and finals.engineering show the range, from concise invented words to broader dictionary terms. When comparing these domains, focus first on whether the word becomes clearer or stronger when paired with .engineering. Then check price discipline: the median ask is near $20, so weak semantic fit or awkward wording is harder to justify. For founders, the best picks are memorable and credible. For investors, the better candidates are the ones with clearer end-user relevance.
+This list is made up of one-word .engineering domain names built from common English words rather than technical jargon — think out, half, just, okay, feel, and correct. With 11,703 names in the set and a median ask of $18.92, it's a low-cost pool of short, memorable options. Whether you're comparing candidates for a technical brand or scanning for undervalued names, the value here comes from brevity and everyday word recognition rather than industry-specific terminology.
 
-- All results are one-word domains on .engineering
-- Median ask pricing is about $20 across this selection
-- Best picks read naturally with a technical extension
-- Watch for words that feel broad, vague, or mismatched
+- 11,703 one-word .engineering domain names in this list
+- Median ask: $18.92 across the set
+- Everyday words: out, half, just, okay, feel, and more
+- Short, brandable names ready to compare by price
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ENGINEERING One-Word Domains*. Version 2026-06-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ENGINEERING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
