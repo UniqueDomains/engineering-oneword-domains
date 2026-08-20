@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .engineering one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,459 domains · **Median ask:** $15.68 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/engineering`
 **Best for:** founders, investors, studios
 
@@ -64,12 +64,6 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| one.engineering     | premium   | $250      | $250          | high           | medium | 3      | name.com         |
-| hello.engineering   | available | —         | —             | high           | low    | 5      | —                |
-| bang.engineering    | available | —         | —             | high           | low    | 4      | —                |
-| cut.engineering     | available | $11.99    | $86.99        | high           | low    | 3      | name.com         |
-| perfect.engineering | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo         |
-| attack.engineering  | available | $11.99    | —             | high           | low    | 6      | name.com         |
 | ale.engineering     | available | $11.99    | —             | medium         | low    | 3      | name.com         |
 | odd.engineering     | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC     |
 | man.engineering     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
@@ -78,12 +72,18 @@ print(df.head())
 | men.engineering     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
 | cod.engineering     | available | $11.99    | —             | high           | low    | 3      | name.com         |
 | shift.engineering   | resell    | —         | —             | high           | medium | 5      | Dynadot Inc      |
+| one.engineering     | premium   | $250      | $250          | high           | medium | 3      | name.com         |
 | cow.engineering     | available | $11.99    | —             | high           | low    | 3      | name.com         |
 | leader.engineering  | resell    | —         | —             | high           | low    | 6      | NameSilo, LLC    |
 | asia.engineering    | premium   | $500      | —             | high           | low    | 4      | name.com         |
+| cut.engineering     | available | $11.99    | $86.99        | high           | low    | 3      | name.com         |
 | advance.engineering | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 6 |
 | math.engineering    | premium   | $123.75   | —             | high           | medium | 4      | name.com         |
 | dip.engineering     | available | $11.99    | $86.99        | high           | low    | 3      | name.com         |
+| defence.engineering | resell    | —         | —             | high           | low    | 7      | eNom, LLC        |
+| sexy.engineering    | premium   | $123.75   | —             | high           | low    | 4      | name.com         |
+| gun.engineering     | available | $11.99    | —             | medium         | low    | 3      | name.com         |
+| view.engineering    | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ENGINEERING One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ENGINEERING One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
