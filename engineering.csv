@@ -2,7 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 69da2e48-295e-42e8-b450-30ddf5d729e4,justified.engineering,available,11.99,,medium,low,9,name.com,,
 957f34ff-8677-43d5-b10d-965d76a1b337,contrasting.engineering,available,11.99,,medium,low,11,name.com,,
 37868bef-4e0c-494b-af82-6543f29c2aad,essence.engineering,available,11.99,,high,low,7,name.com,,
-1899cafb-78d8-4316-b003-49114ca47f2e,schoolbook.engineering,available,11.99,,low,low,11,name.com,,
+1899cafb-78d8-4316-b003-49114ca47f2e,schoolbook.engineering,available,10.48,85.98,medium,low,11,namecheap,,
 98eed291-aade-4bb6-8198-75706e6f88e5,splashabout.engineering,available,11.99,,low,low,12,name.com,,
 815519f8-b390-4f60-8917-2102bec0a883,tossaway.engineering,available,11.99,,medium,low,9,name.com,,
 2a0c5144-6694-4d2d-95a1-5b8df974fcfe,letknow.engineering,available,11.99,,high,low,8,name.com,,
