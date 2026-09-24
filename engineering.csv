@@ -6,7 +6,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 98eed291-aade-4bb6-8198-75706e6f88e5,splashabout.engineering,available,11.99,,low,low,12,name.com,,,
 815519f8-b390-4f60-8917-2102bec0a883,tossaway.engineering,available,11.99,,medium,low,9,name.com,,,
 2a0c5144-6694-4d2d-95a1-5b8df974fcfe,letknow.engineering,available,11.99,,high,low,8,name.com,,,
-5e7af18e-df81-4941-93f8-3866589d4622,experiment.engineering,available,11.99,,high,low,10,name.com,,,
+5e7af18e-df81-4941-93f8-3866589d4622,experiment.engineering,available,10.48,85.98,medium,low,10,namecheap,,,23/09/2026 08:49
 95bdb560-f649-47a9-b6b5-c4baaa6216e9,bargain.engineering,available,11.99,,high,low,7,name.com,,,
 253be061-2260-4a79-8202-f2e24c42606b,aol.engineering,available,,,high,low,3,,,,
 ef20fa11-a816-46c0-b192-5194a3dd0c6f,inkind.engineering,available,10.48,85.98,low,low,7,namecheap,,,15/09/2026 04:38
@@ -128,10 +128,10 @@ d5cf1842-a1ca-4e7a-85eb-aa1789acef5d,encounter.engineering,available,11.99,,high
 cac18e69-f084-4da4-907d-8e4d4e55beff,previous.engineering,available,11.99,,high,low,8,name.com,,,
 461967af-42b2-4f6e-8d60-c47be9c5d107,gstring.engineering,available,11.99,,medium,low,8,name.com,,,
 234d20c8-8fdf-4529-bee1-fcd2518bbb0e,concentrated.engineering,available,11.99,,medium,low,12,name.com,,,
-56e25cdc-7de5-45a5-89c5-a99071e94e6a,learned.engineering,available,11.99,86.99,high,low,7,name.com,,,
+56e25cdc-7de5-45a5-89c5-a99071e94e6a,learned.engineering,available,10.48,85.98,low,low,7,namecheap,,,23/09/2026 19:31
 4df5a6c7-d218-4938-b5fd-89f30f392fcf,atbottom.engineering,available,11.99,,medium,low,9,name.com,,,
 27daca98-cf36-488f-ae1f-487e7598764a,sounded.engineering,available,11.99,,low,low,7,name.com,,,
-de44116d-cb15-4fcc-b7a8-90ec330e6089,cliche.engineering,available,11.99,,high,low,6,name.com,,,
+de44116d-cb15-4fcc-b7a8-90ec330e6089,cliche.engineering,available,16.99,64.99,medium,low,6,namesilo,,,23/09/2026 16:07
 0947960d-da17-415d-b74f-371bbbaaac36,fourteen.engineering,available,16.99,64.99,medium,low,8,namesilo,,,21/09/2026 11:38
 825cef2b-6974-47de-8597-3ba46770f11b,disapproval.engineering,available,11.99,,medium,low,11,name.com,,,
 aac442ea-910d-4bca-b6eb-88a17cceee98,sunburst.engineering,available,11.99,,high,low,8,name.com,,,
@@ -155,14 +155,14 @@ f324c8e5-a595-4e79-bccb-0fa8c5e4727c,bigdeal.engineering,available,11.99,,high,l
 b05a0621-5235-4b8f-995c-ab1dad518672,brighten.engineering,available,11.99,,high,low,8,name.com,,,
 7add1d9a-7ddb-4871-8466-e29b082a5cf8,weakened.engineering,available,16.99,64.99,low,low,8,namesilo,,,22/09/2026 11:29
 f6ff4049-7ce1-4d2a-9f36-79d6b477433e,aphotic.engineering,available,10.48,85.98,low,low,7,namecheap,,,05/08/2026 23:37
-1486360e-b390-4f30-bd1f-40b1215f7b64,concise.engineering,available,11.99,86.99,high,low,7,name.com,,,
+1486360e-b390-4f30-bd1f-40b1215f7b64,concise.engineering,available,10.48,85.98,medium,low,7,namecheap,,,23/09/2026 19:03
 a9597b68-cdf9-4bd8-aaea-cf2eaebbd431,peer.engineering,available,11.99,,high,low,4,name.com,,,
 f5d30c41-728e-4587-849d-ce5a8a473986,foodcourt.engineering,available,11.99,,high,low,10,name.com,,,
 d77a4426-fb52-438c-b296-e0406e5291c4,across.engineering,available,11.99,,high,low,6,name.com,,,
 79c4d971-1147-4c64-994a-ad43b02c14ac,disassemble.engineering,available,11.99,,medium,low,11,name.com,,,
 300c4557-b4bb-4e29-b622-6c387579f7c4,roll.engineering,available,11.99,,medium,low,4,name.com,,,
 26c6d3a4-b07e-4365-831d-8163ddb54216,allthebest.engineering,available,11.99,,high,low,12,name.com,,,
-56aca3bc-f768-4809-b2fd-c37fb3e60bb2,cod.engineering,available,11.99,,high,low,3,name.com,,,
+56aca3bc-f768-4809-b2fd-c37fb3e60bb2,cod.engineering,available,16.99,64.99,low,low,3,namesilo,,,23/09/2026 14:56
 2dd3ba04-dc71-4365-8317-b594066c7bb9,lots.engineering,available,11.99,,high,low,4,name.com,,,
 cf47e4ba-784b-48ab-a73a-44cd43decd20,granted.engineering,available,11.99,,high,low,7,name.com,,,
 2c06e5de-17e3-4037-ac56-e828b3afecaf,comerainorshine.engineering,available,11.99,,medium,low,18,name.com,,,
@@ -176,7 +176,7 @@ db2b944c-0fa3-403a-bef6-8337fbca73d5,keepsecret.engineering,available,11.99,,med
 38480170-c1c4-485c-8933-c9ff20da8fec,sloping.engineering,available,10.48,85.98,low,low,7,namecheap,,,08/09/2026 05:27
 714d3af8-403f-4b65-aa06-59ed0055c6a6,songlike.engineering,available,10.48,85.98,low,low,8,namecheap,,,06/08/2026 19:24
 dd150ec8-be1f-42e8-94a9-144c588a8b74,intriguing.engineering,available,11.99,,high,low,10,name.com,,,
-fe5c1e85-b1f1-476c-96ee-49a2b41961d4,cut.engineering,available,11.99,86.99,high,low,3,name.com,,,
+fe5c1e85-b1f1-476c-96ee-49a2b41961d4,cut.engineering,available,16.99,64.99,low,low,3,namesilo,,,24/09/2026 04:08
 4cd992ed-09e1-4501-ac3f-f30d184da4d9,howareyou.engineering,available,11.99,,medium,low,11,name.com,,,
 0058d196-86bc-4147-a545-fc5cfaecafd6,consider.engineering,available,11.99,86.99,high,low,8,name.com,,,
 e0d44d76-ee21-4dec-8d35-e37da629d707,bared.engineering,available,16.99,64.99,low,low,5,namesilo,,,22/09/2026 17:24
@@ -203,7 +203,7 @@ c043d74f-6af5-495d-83a2-5fe8b81de05f,areal.engineering,available,10.48,85.98,low
 9d6c3598-d0ca-4e32-a28f-09f0f603d4a1,kansas.engineering,premium,118.8,118.8,medium,low,6,namesilo,,,
 f7429069-d84f-4a01-91d9-ef4dc0f79e3a,reflection.engineering,available,11.99,,high,low,10,name.com,,,
 9108d1fc-091b-450e-8db8-0bdacc9b2b28,unanimously.engineering,available,11.99,,medium,low,11,name.com,,,
-6e21155a-e477-48bf-9d5a-c010ba0736b2,attack.engineering,available,16.99,64.99,medium,low,6,namesilo,,,19/09/2026 14:18
+6e21155a-e477-48bf-9d5a-c010ba0736b2,attack.engineering,available,16.99,64.99,medium,low,6,namesilo,,,23/09/2026 17:14
 dd1372dc-2ebf-474b-bcad-567816969ba0,schoolboard.engineering,available,11.99,,high,low,12,name.com,,,
 7cd82bc1-b681-4ac3-81da-24f0852ef9b7,atrial.engineering,available,10.48,85.98,low,low,6,namecheap,,,07/08/2026 14:24
 05f0413a-e34f-49bc-b5ac-b1861df92c74,jameswatt.engineering,available,11.99,,high,low,10,name.com,,,
@@ -260,7 +260,7 @@ a0f2c29a-ac43-4777-83ca-2d141dbe9e3c,antitrust.engineering,available,10.48,85.98
 1e3f2c6c-3ed7-4565-b5a6-e41c374fc3fc,keepthepeace.engineering,available,11.99,,high,low,14,name.com,,,
 535a4ed5-2849-457a-8be1-7d88c7d36cfd,commix.engineering,available,10.48,85.98,low,low,6,namecheap,,,
 6c8e1d47-c439-43be-818a-a6a207aef854,improvize.engineering,available,10.48,85.98,low,low,9,namecheap,,,
-814569bf-456e-4fa5-8576-59fe69e6afaa,capital.engineering,premium,512,512,medium,low,7,namesilo,,,19/09/2026 09:29
+814569bf-456e-4fa5-8576-59fe69e6afaa,capital.engineering,premium,512,512,medium,low,7,namesilo,,,23/09/2026 07:39
 a3992ea7-af91-4704-ab44-d07c194a2d06,havethehotsfor.engineering,available,11.99,,medium,low,17,name.com,,,
 98b08075-fc6f-40ea-ab9d-e614d708ca53,affable.engineering,available,10.48,85.98,medium,low,7,namecheap,,,21/09/2026 21:27
 439d7268-6016-4367-a487-812aa65dc9f5,audile.engineering,available,10.48,85.98,low,low,6,namecheap,,,07/08/2026 16:40
@@ -284,7 +284,7 @@ fd8dca21-2e51-4ffa-a12f-b2ec1ab973b7,eremitic.engineering,available,10.48,85.98,
 d10881cf-05db-4afd-916c-1f6c747706e5,youknowit.engineering,available,11.99,,high,low,11,name.com,,,
 494cb3cd-9701-4c51-b52f-02f7230c108b,probably.engineering,available,11.99,,medium,low,8,name.com,,,
 344cb018-ca4c-4577-be03-d02b5d2865cf,fairs.engineering,available,11.99,,high,low,5,name.com,,,
-fda928cd-995c-481b-85e4-66bb845f565f,treat.engineering,available,11.99,86.99,high,low,5,name.com,,,
+fda928cd-995c-481b-85e4-66bb845f565f,treat.engineering,available,16.99,64.99,low,low,5,namesilo,,,24/09/2026 04:23
 8f94ed7e-898f-4a2a-bf4f-8970367377f3,motherfukka.engineering,available,11.99,,medium,low,11,name.com,,,
 cf6636af-9c8b-4e5a-8249-beb66ecd842e,specially.engineering,available,11.99,,medium,low,9,name.com,,,
 2e2a94fc-5c93-4c04-902d-e2ea986203b3,astylar.engineering,available,10.48,85.98,low,low,7,namecheap,,,07/08/2026 10:15
@@ -313,7 +313,7 @@ ebe231c1-f2dc-4b11-98c0-1d0aa5f0aaac,heptad.engineering,available,10.48,85.98,lo
 1d15d7cc-a101-498b-ac43-c1f2e1fe1ba0,twine.engineering,available,11.99,,medium,low,5,name.com,,,
 95819f5a-54ce-43e8-95d0-edab6e9f5b87,ofcourse.engineering,available,11.99,,medium,low,9,name.com,,,
 4f032a35-737d-4494-b6bb-ad563926bca7,chirping.engineering,available,11.99,,high,low,8,name.com,,,
-26fa522f-f818-42c1-a3ec-f522822c997e,entertain.engineering,available,11.99,,high,low,9,name.com,,,
+26fa522f-f818-42c1-a3ec-f522822c997e,entertain.engineering,available,16.99,64.99,medium,low,9,namesilo,,,24/09/2026 02:50
 b9bee7ac-aeaf-444d-b6a4-2b90b2a01111,florid.engineering,available,10.48,85.98,low,low,6,namecheap,,,07/08/2026 17:26
 d4b8bb72-1ba1-42b7-a466-da72e10b0864,atthispoint.engineering,available,11.99,,medium,low,13,name.com,,,
 957661e2-e71a-4d32-a582-def913e678ed,piper.engineering,available,,,medium,low,5,,,,
@@ -329,7 +329,7 @@ d081e7bb-40c3-4779-b92c-5463cbe207b8,makelemonade.engineering,available,11.99,,h
 a8d07bc5-25ff-414e-9790-68fe50b4e823,washing.engineering,available,11.99,,high,low,7,name.com,,,
 20c75463-9993-4dd2-8f1c-36bf87fb3462,agonadal.engineering,available,10.48,85.98,low,low,8,namecheap,,,
 919ea8a3-4273-4a1f-b7f1-64d28a163abf,pancreas.engineering,available,11.99,,medium,low,8,name.com,,,
-0b9daada-1af0-4058-9031-40769ed4840d,pervert.engineering,available,11.99,86.99,high,low,7,name.com,,,
+0b9daada-1af0-4058-9031-40769ed4840d,pervert.engineering,available,10.48,85.98,low,low,7,namecheap,,,23/09/2026 23:54
 c871e8a0-c480-4115-a804-1f3d01b17cd8,sterile.engineering,available,11.99,86.99,low,low,7,name.com,,,22/09/2026 09:35
 1b68a6a2-ec3b-4edc-b47d-306846aec6c8,bang.engineering,available,,,high,low,4,,,,
 4ec8c973-819c-4862-b644-9d46816e051a,nan.engineering,available,11.99,,high,low,3,name.com,,,
@@ -373,7 +373,7 @@ de41e380-8e66-41c5-adcf-cdb525cd45db,onceforall.engineering,available,11.99,,low
 78fd7dae-4c83-432c-b37b-f57623e8fafc,angolan.engineering,available,10.48,85.98,low,low,7,namecheap,,,
 34be95d2-b8b0-4c06-aec7-a8bef078df0b,january.engineering,available,11.99,,high,low,7,name.com,,,
 03c24d08-4874-4072-9ed8-fb165909c1ce,archaist.engineering,available,10.48,85.98,low,low,8,namecheap,,,
-411701b3-8524-4a77-9d38-e1e974a22314,defend.engineering,available,11.99,,high,low,6,name.com,,,
+411701b3-8524-4a77-9d38-e1e974a22314,defend.engineering,available,10.48,85.98,medium,low,6,namecheap,,,23/09/2026 13:40
 02c7932b-d74a-4e14-9061-a5c4c4dbcae6,detergent.engineering,available,11.99,86.99,high,low,9,name.com,,,
 71745bc9-681c-4e64-a417-179791a09165,blurred.engineering,available,16.99,64.99,low,low,7,namesilo,,,22/09/2026 23:21
 8b2279bf-9540-4e70-94d1-311e9663ba5d,trace.engineering,available,,,medium,low,5,,,,
@@ -384,9 +384,9 @@ abd56467-f053-459a-bd36-9da125624a72,axillary.engineering,available,10.48,85.98,
 6b61c5b5-501e-4708-bb4a-91302fe9250d,enrich.engineering,available,11.99,,high,low,6,name.com,,,
 01bba568-01a6-4a6f-a266-5e703fba5206,speakto.engineering,available,11.99,,medium,low,8,name.com,,,
 6de6b422-f0fb-4771-97b3-4435631684d8,whereabouts.engineering,available,11.99,,low,low,11,name.com,,,
-6d92e585-a57b-4ef0-9f22-e26c7ebd2ce6,biggame.engineering,available,11.99,,high,low,8,name.com,,,
+6d92e585-a57b-4ef0-9f22-e26c7ebd2ce6,biggame.engineering,available,16.99,64.99,low,low,8,namesilo,,,23/09/2026 14:31
 86b093d7-1fae-44a9-9d49-1875ebfc292f,deepest.engineering,available,11.99,,medium,low,7,name.com,,,
-e376589e-a836-4ef1-b3ce-50f120e55880,manage.engineering,available,11.99,,high,medium,6,name.com,,,
+e376589e-a836-4ef1-b3ce-50f120e55880,manage.engineering,available,16.99,64.99,medium,low,6,namesilo,,,23/09/2026 08:43
 e810e94a-4191-47dd-b5d7-7a229759c1b9,circinate.engineering,available,,,medium,low,9,,,,
 e926856d-9d1d-48f2-9cf8-138bb4484c02,talkingpoint.engineering,available,11.99,,medium,low,13,name.com,,,
 456a1a16-e22e-4e8e-8b6b-733ef390c47b,tieup.engineering,available,16.99,64.99,low,low,6,namesilo,,,17/09/2026 14:23
@@ -469,7 +469,7 @@ d6e8c5da-e439-4c8a-9f00-f61882eb0b5f,fivesome.engineering,available,10.48,85.98,
 7655b404-0baf-4511-abd6-eefccbf91a72,haveonemoretime.engineering,available,11.99,,medium,low,18,name.com,,,
 d7600681-66ec-4440-814d-c9107206e8d1,winback.engineering,available,11.99,,medium,low,8,name.com,,,
 f6af4901-c47b-4dfd-a378-3d5f5f78fd26,establish.engineering,available,10.48,85.98,medium,low,9,namecheap,,,22/09/2026 17:35
-b18fbfb7-ab72-4b87-90bf-08d8ccba09b8,choppy.engineering,available,11.99,,medium,low,6,name.com,,,
+b18fbfb7-ab72-4b87-90bf-08d8ccba09b8,choppy.engineering,available,16.99,64.99,low,low,6,namesilo,,,23/09/2026 14:30
 dac0f824-82fd-4855-ae08-085380bc3df9,cow.engineering,available,11.99,,high,low,3,name.com,,,
 25632aa2-2c96-4f44-9f6c-2fe6f66aea2a,waitfor.engineering,available,11.99,,medium,low,8,name.com,,,
 39857e31-bf24-4def-9795-5210d4acfb72,thisandthat.engineering,available,11.99,,low,low,13,name.com,,,
@@ -553,7 +553,6 @@ de547b4f-944b-4c22-9cc4-983482855c1d,aligning.engineering,available,10.48,85.98,
 8ff1d93f-af95-4a27-9de4-d3b4e5628378,exercisebike.engineering,available,11.99,,high,low,13,name.com,,,
 91297d75-9b88-415f-9620-3eb20fcaa2ae,shoppingcentre.engineering,available,11.99,,high,low,15,name.com,,,
 a2745fef-8038-405e-98eb-5a6285290344,welfare.engineering,available,10.48,85.98,medium,low,7,namecheap,,,08/09/2026 03:13
-007c2286-d253-443f-acfb-01c8baa0e916,enterprise.engineering,premium,520,520,low,low,10,namecheap,,,19/09/2026 05:02
 4ac1addb-1a1c-4c12-b0f6-57094d8cf81c,oddnumbered.engineering,available,11.99,,low,low,12,name.com,,,
 dc0ab023-cddb-415a-9473-14e1941f4fc6,moneyeconomy.engineering,available,11.99,,high,low,13,name.com,,,
 25a24e5c-a603-46a3-907c-253142631bd4,woody.engineering,available,10.48,85.98,low,low,5,namecheap,,,06/08/2026 13:08
@@ -563,13 +562,13 @@ a1e5a3fa-3af5-4238-8910-958a3afff5ef,obey.engineering,available,11.99,,high,low,
 20bf46e3-be41-48a4-818c-2b39acbdf982,equipped.engineering,available,11.99,,medium,low,8,name.com,,,
 84102931-6568-4201-9c88-216b568d558e,bacterioid.engineering,available,10.48,85.98,low,low,10,namecheap,,,08/08/2026 07:17
 704a4ccf-756c-4ba9-a2ef-839964f64c8d,lowdown.engineering,available,10.48,85.98,low,low,8,namecheap,,,
-dcb63d1c-645d-4371-9dcc-8efb6cc19b14,realised.engineering,available,11.99,86.99,high,low,8,name.com,,,
+dcb63d1c-645d-4371-9dcc-8efb6cc19b14,realised.engineering,available,16.99,64.99,medium,low,8,namesilo,,,23/09/2026 17:33
 5a1ff12c-e8d8-4664-aced-8b91c6adf7d9,onbase.engineering,available,10.48,85.98,low,low,7,namecheap,,,15/09/2026 17:31
 d91af38d-0fe3-40a1-a086-c14ab9c65d09,evrything.engineering,available,11.99,,medium,low,9,name.com,,,
 ffd77ce4-42a9-4c92-8083-449de658bcbc,affluence.engineering,available,11.99,,high,low,9,name.com,,,
 dd48f915-29a0-4798-9eb7-30f02174c2fc,fireengine.engineering,available,11.99,,high,low,11,name.com,,,
 98565463-4d8a-406a-87f3-b414aed9aa2b,ache.engineering,available,10.48,85.98,low,low,4,namecheap,,,
-84331f9c-4293-4d4b-a06e-a7ff46dcdfa6,spf.engineering,available,11.99,,high,low,3,name.com,,,
+84331f9c-4293-4d4b-a06e-a7ff46dcdfa6,spf.engineering,available,16.99,64.99,medium,low,3,namesilo,,,23/09/2026 05:17
 f69fb2a7-33c2-4171-93f5-a5189fd38a07,tiptop.engineering,available,10.48,85.98,low,low,6,namecheap,,,
 6cd315ff-7856-4690-a993-00e5ff91c9d4,twoscore.engineering,available,10.48,85.98,low,low,8,namecheap,,,
 3d0a4e6d-2233-45e7-ac18-e611d006cadb,silent.engineering,available,11.99,,high,low,6,name.com,,,
@@ -597,7 +596,7 @@ eece6cb9-de95-47e3-8182-f118c9de3b95,created.engineering,available,11.99,,medium
 d2e73b0d-10c0-4bcf-95ca-584532b38173,feet.engineering,available,11.99,,high,low,4,name.com,,,
 4fdce140-b19e-4b32-a215-59236f0b8941,artnouveau.engineering,available,11.99,,medium,low,11,name.com,,,
 39cf935d-04a9-465b-8d7b-5861b9f2a43f,haiti.engineering,available,,,medium,low,5,,,,
-5bbddd19-9ed1-4180-a96f-058a9f58fdfb,scornful.engineering,available,11.99,86.99,medium,low,8,name.com,,,
+5bbddd19-9ed1-4180-a96f-058a9f58fdfb,scornful.engineering,available,16.99,64.99,low,low,8,namesilo,,,23/09/2026 21:53
 7c0727c7-2399-4ba3-a3f3-c3bae204ec9c,highlighting.engineering,available,11.99,,high,low,12,name.com,,,
 f05de513-709d-4200-bbc2-2f762afe7e0a,buyfood.engineering,available,11.99,,high,low,8,name.com,,,
 072cd16e-1ad8-48db-b495-b57eb215edbb,supra.engineering,available,10.48,85.98,medium,low,5,namecheap,,,
@@ -615,7 +614,7 @@ aaec11ee-49b8-47ab-9f0e-875d693e0e64,baseball.engineering,premium,118.8,118.8,hi
 5a5464cd-1ebe-441c-a2cb-dd4722d0ad4e,adverbial.engineering,available,10.48,85.98,low,low,9,namecheap,,,
 87bc4567-2fad-40c9-bc02-b593d91b4c2b,mahfucker.engineering,available,11.99,,medium,low,9,name.com,,,
 7a486127-1b15-4c4f-8798-1374e24b8d39,everybodyelse.engineering,available,11.99,,medium,low,14,name.com,,,
-8f9c6da2-88ce-4d7d-992c-3801c050684e,powerful.engineering,available,11.99,,high,low,8,name.com,,,
+8f9c6da2-88ce-4d7d-992c-3801c050684e,powerful.engineering,available,10.48,85.98,medium,low,8,namecheap,,,23/09/2026 09:23
 59b64259-6951-45fb-a72d-dde1b0fde18d,ascendent.engineering,available,10.48,85.98,low,low,9,namecheap,,,
 b3edcdfa-061a-4b54-9d75-e70ba3117c1f,intheworstway.engineering,available,11.99,,medium,low,16,name.com,,,
 ac6e397b-4702-40b5-af48-87682562e4f6,sweettea.engineering,available,11.99,,medium,low,9,name.com,,,
@@ -634,7 +633,7 @@ e9475b9b-0286-4360-9094-04e9906f7523,solely.engineering,available,10.48,85.98,lo
 07c17423-352a-41f6-b3f2-99b0e11ae43d,funds.engineering,available,11.99,,high,low,5,name.com,,,
 03e33d7e-8be1-4bc5-a4fc-4900519f76f2,wikimedia.engineering,available,,,low,low,9,,,,
 403109e3-1a8c-4f1a-b9d8-c3410ede8f23,xxxii.engineering,available,10.48,85.98,low,low,5,namecheap,,,
-f5aae10d-787d-46d3-a9d6-cae0b5c0dc72,conclusion.engineering,available,11.99,,high,low,10,name.com,,,
+f5aae10d-787d-46d3-a9d6-cae0b5c0dc72,conclusion.engineering,available,16.99,64.99,medium,low,10,namesilo,,,23/09/2026 14:51
 4176a105-a911-4d68-beed-b193ed14b203,landing.engineering,available,11.99,,high,low,7,name.com,,,
 7a50af11-538f-4f99-9bdf-e6fd1ffb417d,bali.engineering,available,11.99,,medium,medium,4,name.com,,,
 60768fb2-7a28-4f8c-84e1-a386828c47a5,wandering.engineering,available,11.99,,high,low,9,name.com,,,
@@ -653,7 +652,6 @@ c6f89fb8-23cd-4d88-8efd-b3cc122c48b5,raunchy.engineering,available,10.48,85.98,l
 bb73dda6-13d5-4111-be45-6a1601834abc,hinder.engineering,available,11.99,,high,low,6,name.com,,,
 271d3e4d-f668-46a2-89f9-baf60ec74461,quint.engineering,available,10.48,85.98,low,low,5,namecheap,,,
 b4a5edad-8f42-4b62-b8b7-94c2e04e04e3,termination.engineering,available,10.48,85.98,low,low,11,namecheap,,,04/09/2026 07:49
-b2b65fad-92fd-43f6-806c-e734c4f82676,material.engineering,available,11.99,86.99,high,low,8,name.com,,,
 dfa5900b-08d2-47dc-87aa-935c04c91bee,ablaze.engineering,available,10.48,85.98,low,low,6,namecheap,,,
 f55e14f4-d8b9-473f-b49d-d9c2740cec54,generically.engineering,available,11.99,,medium,low,11,name.com,,,
 09417c54-b895-435f-b8f1-82357dda3a8d,astringent.engineering,available,10.48,85.98,low,low,10,namecheap,,,
@@ -733,7 +731,7 @@ d46b22f5-92b4-4114-bb16-4b8d2b0eb385,cometoaclose.engineering,available,11.99,,h
 1a153106-04db-45dc-b424-eac3015ec366,hotpepper.engineering,available,11.99,,high,low,10,name.com,,,
 ff268e58-0512-4454-8a94-796a5b78926d,accretive.engineering,available,10.48,85.98,low,low,9,namecheap,,,
 d4aad9cb-7759-4e14-9c19-b55f488bab29,retreat.engineering,available,11.99,,high,low,7,name.com,,,
-03abb4bf-2534-47f7-b2c7-21c0db372d61,limited.engineering,premium,118.8,118.8,high,low,7,namesilo,,,
+03abb4bf-2534-47f7-b2c7-21c0db372d61,limited.engineering,premium,128.7,128.7,low,low,7,namecheap,,,23/09/2026 14:41
 260d797f-af98-4c96-bf73-916a735e2974,flood.engineering,available,11.99,,medium,low,5,name.com,,,
 2f7e43f4-bae0-41e4-9d1a-9d11dba8b94e,warmachine.engineering,available,11.99,,medium,low,11,name.com,,,
 f2c92871-a36c-4f75-9665-14dd2b9ed9fd,granddaughter.engineering,available,11.99,,high,low,13,name.com,,,
@@ -743,7 +741,7 @@ b344972c-9ec9-4995-84da-d91f4fea8067,wakingup.engineering,available,11.99,,high,
 e3ec629b-dba0-43ed-88a0-b7beea2bb3ea,dawn.engineering,available,11.99,,high,low,4,name.com,,,
 f383637a-fe1b-4687-a5b9-0fc47b4b6651,along.engineering,available,,,medium,low,5,,,,
 71e3f26b-2255-43e7-a79e-0276cada76da,facilitating.engineering,available,11.99,,medium,low,12,name.com,,,
-5753d2e2-c770-47dd-abbd-8667bd42feef,right.engineering,premium,250,250,high,low,5,name.com,,,
+5753d2e2-c770-47dd-abbd-8667bd42feef,right.engineering,premium,242,242,medium,low,5,namesilo,,,23/09/2026 23:38
 bad851ec-3827-44a8-b120-4b6d33e7e7cd,riyadh.engineering,available,11.99,,medium,low,6,name.com,,,
 2466f3d6-d01e-4b0e-b962-51e73745f0a3,purposes.engineering,available,11.99,,low,low,8,name.com,,,
 530e7c05-d83c-4180-a56a-9df67b617e36,toothwork.engineering,available,11.99,,low,low,9,name.com,,,
@@ -761,7 +759,7 @@ e13773fe-639a-435f-8ca2-fa8d2dc50726,infrared.engineering,available,10.48,85.98,
 21e1d03a-88d4-41d4-8b25-e5886ee46a94,alias.engineering,available,11.99,,high,low,5,name.com,,,
 a0c12574-a738-4d12-b9f4-3f3ec7a8ef14,backward.engineering,available,16.99,64.99,low,low,8,namesilo,,,22/09/2026 15:53
 97ee26cf-494f-4ce8-aecc-660852935d27,westend.engineering,available,11.99,,medium,low,8,name.com,,,
-e40c07a7-6071-4027-8fb1-924862ee9f5f,halt.engineering,available,11.99,86.99,medium,low,4,name.com,,,
+e40c07a7-6071-4027-8fb1-924862ee9f5f,halt.engineering,available,16.99,64.99,low,low,4,namesilo,,,24/09/2026 01:49
 ac90e0c1-9c72-4cd8-9522-bfebecfb7f43,vinegary.engineering,available,10.48,85.98,low,low,8,namecheap,,,
 cec47028-e4b6-412a-b843-1a451f4aee3a,slept.engineering,available,11.99,,low,low,5,name.com,,,
 bf40a004-222b-4529-9eb6-92010eff5609,dramatic.engineering,available,11.99,86.99,medium,low,8,name.com,,,
@@ -778,7 +776,7 @@ f8d95018-8cc5-40b4-abbe-0fa73e6c32fe,coat.engineering,available,11.99,,high,low,
 f7dbdf3e-a4aa-4b97-932e-7f5ed41a6777,oddfish.engineering,available,11.99,,low,low,8,name.com,,,
 375e3f3c-9081-4ac0-a23e-da3fe32d64fe,publicised.engineering,available,11.99,,medium,low,10,name.com,,,
 3dd39283-6c7d-44bf-91d8-71ac23beee07,gelpen.engineering,available,11.99,,high,low,7,name.com,,,
-e912ae8c-1ae6-4fa8-abdc-6b479c94798f,cold.engineering,available,11.99,,high,low,4,name.com,,,
+e912ae8c-1ae6-4fa8-abdc-6b479c94798f,cold.engineering,available,16.99,64.99,medium,low,4,namesilo,,,23/09/2026 15:03
 fd6b5f47-9419-4244-a070-8592e79442cd,alky.engineering,available,10.48,85.98,low,low,4,namecheap,,,
 bf7e9e89-feed-439c-a093-94a0583e864d,aquaphobic.engineering,available,10.48,85.98,low,low,10,namecheap,,,06/08/2026 10:40
 605d92e5-f6f5-4692-8a06-2f8aace44920,lxxx.engineering,available,10.48,85.98,low,low,4,namecheap,,,
@@ -808,7 +806,7 @@ f92d0a37-d83c-44d1-901e-ea4e286dc7e7,birth.engineering,available,11.99,,high,low
 4619338b-6947-495a-9249-9eaa24ad65ba,redvelvet.engineering,available,11.99,,medium,low,10,name.com,,,
 792b174a-2f3c-493b-8cf4-e72de9647554,sophisticated.engineering,available,11.99,,high,low,13,name.com,,,
 449cb633-c598-4dc4-9ca7-7f872ed0206d,extraordinary.engineering,available,11.99,,high,low,13,name.com,,,
-7efdd308-b998-4d6a-a635-ea80143a2a11,fatal.engineering,available,11.99,,high,low,5,name.com,,,
+7efdd308-b998-4d6a-a635-ea80143a2a11,fatal.engineering,available,16.99,64.99,low,low,5,namesilo,,,23/09/2026 12:24
 1aaef9f5-c256-4d80-a0a9-4612d7613b68,dankmeme.engineering,available,11.99,,high,low,9,name.com,,,
 8875a427-6fe4-4c79-8969-c6e23b19b7ce,lxiv.engineering,available,10.48,85.98,low,low,4,namecheap,,,
 1692f642-d765-47f4-9833-78ec7b122b76,nephew.engineering,available,11.99,,medium,low,6,name.com,,,
@@ -817,7 +815,7 @@ ef6ca24a-291f-4117-9753-6dafd744da4e,haveotherideas.engineering,available,11.99,
 af71e78b-83aa-4b7a-b818-d173451d14ff,generalpublic.engineering,available,11.99,,high,low,14,name.com,,,
 d0d6473d-af46-4f57-9001-8475bc7896b7,flaxseedoil.engineering,available,11.99,,high,low,12,name.com,,,
 04b37c83-dcfa-45f0-b863-9edf003a6e90,coffeebreak.engineering,available,11.99,,high,low,12,name.com,,,
-68820611-dccb-48af-b984-53d44b697187,rectify.engineering,available,11.99,86.99,high,low,7,name.com,,,
+68820611-dccb-48af-b984-53d44b697187,rectify.engineering,available,16.99,64.99,medium,low,7,namesilo,,,23/09/2026 23:41
 238a5ed3-31ef-49cb-ac7c-67c83bdf5889,gobigorgohome.engineering,available,11.99,,high,low,17,name.com,,,
 68e76f27-558f-4610-abed-3d1ce3da12d9,getin.engineering,available,11.99,,high,low,6,name.com,,,
 2f04adbe-f244-4459-a0a4-6dd631d4dd83,braless.engineering,available,10.48,85.98,low,low,7,namecheap,,,08/08/2026 18:29
@@ -845,7 +843,7 @@ aeed0f57-cc3a-499f-a64e-446de1519e1c,awheel.engineering,available,10.48,85.98,lo
 8d58e917-aff1-496a-b32d-9fb50659f445,thirteenth.engineering,available,10.48,85.98,low,low,10,namecheap,,,
 b533c21e-3a58-455f-9121-7730f04ece77,pleasant.engineering,available,11.99,,high,low,8,name.com,,,
 7bc78893-1b75-4a58-baba-1a2ae168e0a0,department.engineering,available,11.99,,high,low,10,name.com,,,
-e9d29a97-d027-4a07-b524-fe1a54310b3e,continual.engineering,available,11.99,86.99,medium,low,9,name.com,,,
+e9d29a97-d027-4a07-b524-fe1a54310b3e,continual.engineering,available,16.99,64.99,low,low,9,namesilo,,,23/09/2026 22:10
 6cb91066-3276-473b-802d-284d13ee938d,henryford.engineering,available,11.99,,high,low,10,name.com,,,
 de707685-0587-46a1-a771-14acbcb9c056,arcadian.engineering,available,10.48,85.98,low,low,8,namecheap,,,06/08/2026 14:10
 49577e04-dcf1-4567-b70d-c7afbb03f69a,adoptive.engineering,available,10.48,85.98,low,low,8,namecheap,,,
@@ -965,7 +963,7 @@ ceb74792-21e3-4668-915e-a793bf524fc4,painpill.engineering,available,10.48,85.98,
 558f00c5-a3c4-4abf-9e58-ce12e51a07e5,fairy.engineering,available,11.99,,high,low,5,name.com,,,
 9aa1f8bc-7782-4da4-a640-3ee43f704fda,goback.engineering,available,11.99,,high,low,7,name.com,,,
 f1c8420e-569c-4665-ba59-c5180eef82a8,giveitup.engineering,available,11.99,,high,low,10,name.com,,,
-c2f09bba-1138-4bf7-ba83-cdbeb330c1ab,iron.engineering,available,11.99,,high,low,4,name.com,,,
+c2f09bba-1138-4bf7-ba83-cdbeb330c1ab,iron.engineering,available,16.99,64.99,medium,low,4,namesilo,,,23/09/2026 13:11
 88963442-1e40-4578-8275-56af45bd643a,trousers.engineering,available,11.99,,medium,low,8,name.com,,,
 dbcc9c1a-84ed-4fab-b05e-95d7da6dd1f7,unacceptable.engineering,available,11.99,,high,low,12,name.com,,,
 62c57273-feb5-423f-bbaa-9e921f20ee41,assertable.engineering,available,10.48,85.98,low,low,10,namecheap,,,
@@ -992,10 +990,12 @@ a818c7b4-a666-4ad3-bb1c-82f955706613,ixc.engineering,available,10.48,85.98,low,l
 fbf9346a-8559-4a6c-9e3b-6615453dfa31,talkto.engineering,available,11.99,,medium,low,7,name.com,,,
 036d8b11-9606-482c-ac4a-57a0ecfe4ab3,intheear.engineering,available,11.99,,medium,low,10,name.com,,,
 0fbe417a-639c-47c8-9453-8766fd565cd7,diverted.engineering,available,10.48,85.98,low,low,8,namecheap,,,
-9c51befb-d622-4ff8-b8f8-d66f3e8539e3,textbook.engineering,available,11.99,,high,low,8,name.com,,,
+9c51befb-d622-4ff8-b8f8-d66f3e8539e3,textbook.engineering,available,16.99,64.99,medium,low,8,namesilo,,,23/09/2026 13:09
 72c486fc-dc1e-4636-839a-d81d3a29354f,hairfollicle.engineering,available,11.99,,high,low,13,name.com,,,
 2a9a20b7-205b-4bfe-b520-89f38bf4559f,encourage.engineering,available,11.99,,high,low,9,name.com,,,
 72661e23-51af-4d33-bedc-6b467f0ce4f9,neckdeep.engineering,available,10.48,85.98,low,low,9,namecheap,,,08/09/2026 15:02
 6efece92-12c3-439e-9a0c-477430f63bfd,watson.engineering,available,,,high,low,6,,,,
 11da4186-0e6a-4392-8fc8-c142e38b39e8,admiration.engineering,available,11.99,,high,low,10,name.com,,,
 a4ed8e96-0585-4ddf-a4ce-28a1578bade5,thinktwice.engineering,available,11.99,,medium,low,11,name.com,,,
+52a24fa6-7288-41a1-bd8b-01cb5078fe71,ifalle.engineering,available,11.99,,medium,low,7,name.com,,,
+30906702-566a-4e7b-ada0-161bf9b96718,refreshed.engineering,available,11.99,,high,low,9,name.com,,,
