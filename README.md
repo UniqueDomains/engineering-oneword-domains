@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .engineering one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,153 domains · **Median ask:** $14.67 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/engineering`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| ale.engineering     | available | $11.99    | —             | medium         | low    | 3      | name.com      |
-| shift.engineering   | resell    | —         | —             | high           | medium | 5      | Dynadot Inc   |
-| man.engineering     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo      |
-| bud.engineering     | available | $11.99    | —             | high           | low    | 3      | name.com      |
-| leader.engineering  | resell    | —         | —             | high           | low    | 6      | NameSilo, LLC |
-| men.engineering     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo      |
-| cod.engineering     | available | $16.99    | $64.99        | low            | low    | 3      | namesilo      |
-| defence.engineering | resell    | —         | —             | high           | low    | 7      | eNom, LLC     |
-| one.engineering     | premium   | $242      | $242          | medium         | low    | 3      | namesilo      |
-| cow.engineering     | available | $11.99    | —             | high           | low    | 3      | name.com      |
-| asia.engineering    | premium   | $500      | —             | high           | low    | 4      | name.com      |
-| cut.engineering     | available | $16.99    | $64.99        | low            | low    | 3      | namesilo      |
-| math.engineering    | premium   | $123.75   | —             | high           | medium | 4      | name.com      |
-| dip.engineering     | available | $11.99    | $86.99        | high           | low    | 3      | name.com      |
-| sexy.engineering    | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo      |
-| gun.engineering     | available | $11.99    | —             | medium         | low    | 3      | name.com      |
-| view.engineering    | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo      |
-| had.engineering     | available | $11.99    | —             | high           | low    | 3      | name.com      |
-| vote.engineering    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo      |
-| ixc.engineering     | available | $10.48    | $85.98        | low            | low    | 3      | namecheap     |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| ale.engineering     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| dream.engineering   | resell    | —         | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| dna.engineering     | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                  |
+| ana.engineering     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| shift.engineering   | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
+| for.engineering     | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                  |
+| and.engineering     | available | $11.99    | —             | high           | medium | 3      | name.com                                                  |
+| leader.engineering  | resell    | —         | —             | high           | low    | 6      | NameSilo, LLC                                             |
+| gal.engineering     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| awe.engineering     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| marine.engineering  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                                          |
+| man.engineering     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| bud.engineering     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| defence.engineering | resell    | —         | —             | high           | low    | 7      | eNom, LLC                                                 |
+| men.engineering     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| cow.engineering     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| polygon.engineering | resell    | —         | —             | high           | low    | 7      | NameCheap, Inc.                                           |
+| usa.engineering     | premium   | $500      | —             | high           | medium | 3      | name.com                                                  |
+| cry.engineering     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| asia.engineering    | premium   | $500      | —             | high           | low    | 4      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ENGINEERING One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ENGINEERING One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
